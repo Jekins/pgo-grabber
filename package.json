@@ -1,0 +1,9 @@
+{
+  "name": "grabber",
+  "version": "0.0.1",
+  "author": "Jekins",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0"
+  }
+}

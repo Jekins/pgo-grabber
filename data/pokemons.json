@@ -1,0 +1,11154 @@
+[
+  {
+	"id": 1,
+	"num": "001",
+	"name": "Bulbasaur",
+	"weight": 6.90,
+	"height": 0.70,
+	"spawnPercent": 0.69,
+	"spawnsAvg": 69,
+	"spawnTime": "20:00",
+	"multipliers": [1.58],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1071.54,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 126,
+	"baseDefense": 126,
+	"baseStamina": 90,
+	"capturePercent": 16,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "002",
+	"evolNextCandy": 25,
+	"evolNextNext": "003",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 612,
+	"eggPercent": 9.8,
+	"quickMoves": [
+	  "Tackle",
+	  "Vine Whip"
+	],
+	"chargeMoves": [
+	  "Power Whip",
+	  "Seed Bomb",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Vine Whip",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 2,
+	"num": "002",
+	"name": "Ivysaur",
+	"weight": 13.00,
+	"height": 1.00,
+	"spawnPercent": 0.042,
+	"spawnsAvg": 4.2,
+	"spawnTime": "07:00",
+	"multipliers": [
+	  1.2,
+	  1.6
+	],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1632.19,
+	"CPperlvl": 24,
+	"tierRank": "B",
+	"baseAttack": 156,
+	"baseDefense": 158,
+	"baseStamina": 120,
+	"capturePercent": 8,
+	"fleePercent": 7,
+	"evolPrev": "001",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "003",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Razor Leaf",
+	  "Vine Whip"
+	],
+	"chargeMoves": [
+	  "Power Whip",
+	  "Sludge Bomb",
+	  "Solar Beam"
+	],
+	"bestAttackMoveset": [
+	  "Vine Whip",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 3,
+	"num": "003",
+	"name": "Venusaur",
+	"weight": 100.00,
+	"height": 2.00,
+	"spawnPercent": 0.017,
+	"spawnsAvg": 1.7,
+	"spawnTime": "11:30",
+	"multipliers": [],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 2580.49,
+	"CPperlvl": 38,
+	"tierRank": "S",
+	"baseAttack": 198,
+	"baseDefense": 200,
+	"baseStamina": 160,
+	"capturePercent": 4,
+	"fleePercent": 5,
+	"evolPrev": "002",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "001",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Razor Leaf",
+	  "Vine Whip"
+	],
+	"chargeMoves": [
+	  "Petal Blizzard",
+	  "Sludge Bomb",
+	  "Solar Beam"
+	],
+	"bestAttackMoveset": [
+	  "Vine Whip",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 4,
+	"num": "004",
+	"name": "Charmander",
+	"weight": 8.50,
+	"height": 0.60,
+	"spawnPercent": 0.253,
+	"spawnsAvg": 25.3,
+	"spawnTime": "08:45",
+	"multipliers": [1.65],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 955.24,
+	"CPperlvl": 14,
+	"tierRank": "F",
+	"baseAttack": 128,
+	"baseDefense": 108,
+	"baseStamina": 78,
+	"capturePercent": 16,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "005",
+	"evolNextCandy": 25,
+	"evolNextNext": "006",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 545,
+	"eggPercent": 5.4,
+	"quickMoves": [
+	  "Ember",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Flame Burst",
+	  "Flamethrower",
+	  "Flame Charge"
+	],
+	"bestAttackMoveset": [
+	  "Scratch",
+	  "Flamethrower"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 5,
+	"num": "005",
+	"name": "Charmeleon",
+	"weight": 19.00,
+	"height": 1.10,
+	"spawnPercent": 0.012,
+	"spawnsAvg": 1.2,
+	"spawnTime": "19:00",
+	"multipliers": [1.79],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 1557.48,
+	"CPperlvl": 23,
+	"tierRank": "B",
+	"baseAttack": 160,
+	"baseDefense": 140,
+	"baseStamina": 116,
+	"capturePercent": 8,
+	"fleePercent": 7,
+	"evolPrev": "004",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "006",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Fire Punch",
+	  "Flame Burst",
+	  "Flamethrower"
+	],
+	"bestAttackMoveset": [
+	  "Scratch",
+	  "Flamethrower"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 6,
+	"num": "006",
+	"name": "Charizard",
+	"weight": 90.50,
+	"height": 1.70,
+	"spawnPercent": 0.0031,
+	"spawnsAvg": 0.31,
+	"spawnTime": "13:34",
+	"multipliers": [],
+	"type": [
+	  "Fire",
+	  "Flying"
+	],
+	"maxCP": 2602.20,
+	"CPperlvl": 38,
+	"tierRank": "S",
+	"baseAttack": 212,
+	"baseDefense": 182,
+	"baseStamina": 156,
+	"capturePercent": 4,
+	"fleePercent": 5,
+	"evolPrev": "005",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "004",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Bug",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Fairy",
+		"Fighting",
+		"Fire",
+		"Ground",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Water"
+	  ],
+	  "m156x": [
+		"Rock"
+	  ]
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember",
+	  "Wing Attack"
+	],
+	"chargeMoves": [
+	  "Dragon Claw",
+	  "Fire Blast",
+	  "Flamethrower"
+	],
+	"bestAttackMoveset": [
+	  "Wing Attack",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 7,
+	"num": "007",
+	"name": "Squirtle",
+	"weight": 9.00,
+	"height": 0.50,
+	"spawnPercent": 0.58,
+	"spawnsAvg": 58,
+	"spawnTime": "04:25",
+	"multipliers": [2.1],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1008.69,
+	"CPperlvl": 15,
+	"tierRank": "F",
+	"baseAttack": 112,
+	"baseDefense": 142,
+	"baseStamina": 88,
+	"capturePercent": 16,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "008",
+	"evolNextCandy": 25,
+	"evolNextNext": "009",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 576,
+	"eggPercent": 4.8,
+	"quickMoves": [
+	  "Tackle",
+	  "Bubble"
+	],
+	"chargeMoves": [
+	  "Aqua Jet",
+	  "Aqua Tail",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Aqua Tail"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Aqua Tail"
+	]
+  },
+  {
+	"id": 8,
+	"num": "008",
+	"name": "Wartortle",
+	"weight": 22.50,
+	"height": 1.00,
+	"spawnPercent": 0.034,
+	"spawnsAvg": 3.4,
+	"spawnTime": "07:02",
+	"multipliers": [1.4],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1582.79,
+	"CPperlvl": 23,
+	"tierRank": "B",
+	"baseAttack": 144,
+	"baseDefense": 176,
+	"baseStamina": 118,
+	"capturePercent": 8,
+	"fleePercent": 7,
+	"evolPrev": "007",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "009",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Aqua Jet",
+	  "Hydro Pump",
+	  "Ice Beam"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	]
+  },
+  {
+	"id": 9,
+	"num": "009",
+	"name": "Blastoise",
+	"weight": 85.50,
+	"height": 1.60,
+	"spawnPercent": 0.0067,
+	"spawnsAvg": 0.67,
+	"spawnTime": "00:06",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 2542.01,
+	"CPperlvl": 37,
+	"tierRank": "S",
+	"baseAttack": 186,
+	"baseDefense": 222,
+	"baseStamina": 158,
+	"capturePercent": 4,
+	"fleePercent": 5,
+	"evolPrev": "008",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "007",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Flash Cannon",
+	  "Hydro Pump",
+	  "Ice Beam"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Water Gun",
+	  "Flash Cannon"
+	]
+  },
+  {
+	"id": 10,
+	"num": "010",
+	"name": "Caterpie",
+	"weight": 2.00,
+	"height": 0.30,
+	"spawnPercent": 3.032,
+	"spawnsAvg": 303.2,
+	"spawnTime": "16:35",
+	"multipliers": [1.05],
+	"type": [
+	  "Bug"
+	],
+	"maxCP": 443.52,
+	"CPperlvl": 7,
+	"tierRank": "F",
+	"baseAttack": 62,
+	"baseDefense": 66,
+	"baseStamina": 90,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "011",
+	"evolNextCandy": 12,
+	"evolNextNext": "012",
+	"evolNextNextCandy": 50,
+	"buddyRange": 1,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 253,
+	"eggPercent": 10.3,
+	"quickMoves": [
+	  "Tackle",
+	  "Bug Bite"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 11,
+	"num": "011",
+	"name": "Metapod",
+	"weight": 9.90,
+	"height": 0.70,
+	"spawnPercent": 0.187,
+	"spawnsAvg": 18.7,
+	"spawnTime": "02:11",
+	"multipliers": [
+	  3.55,
+	  3.79
+	],
+	"type": [
+	  "Bug"
+	],
+	"maxCP": 477.92,
+	"CPperlvl": 7,
+	"tierRank": "F",
+	"baseAttack": 56,
+	"baseDefense": 86,
+	"baseStamina": 100,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": "010",
+	"evolPrevCandy": 12,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "012",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Tackle",
+	  "Bug Bite"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 12,
+	"num": "012",
+	"name": "Butterfree",
+	"weight": 32.00,
+	"height": 1.10,
+	"spawnPercent": 0.022,
+	"spawnsAvg": 2.2,
+	"spawnTime": "05:23",
+	"multipliers": [],
+	"type": [
+	  "Bug",
+	  "Flying"
+	],
+	"maxCP": 1454.94,
+	"CPperlvl": 21,
+	"tierRank": "B",
+	"baseAttack": 144,
+	"baseDefense": 144,
+	"baseStamina": 120,
+	"capturePercent": 10,
+	"fleePercent": 6,
+	"evolPrev": "011",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": "010",
+	"evolPrevPrevCandy": 12,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fire",
+		"Flying",
+		"Ice"
+	  ],
+	  "m156x": [
+		"Rock"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Confusion"
+	],
+	"chargeMoves": [
+	  "Bug Buzz",
+	  "Psychic",
+	  "Signal Beam"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Bug Buzz"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Bug Buzz"
+	]
+  },
+  {
+	"id": 13,
+	"num": "013",
+	"name": "Weedle",
+	"weight": 3.20,
+	"height": 0.30,
+	"spawnPercent": 7.12,
+	"spawnsAvg": 712,
+	"spawnTime": "02:21",
+	"multipliers": [
+	  1.01,
+	  1.09
+	],
+	"type": [
+	  "Bug",
+	  "Poison"
+	],
+	"maxCP": 449.09,
+	"CPperlvl": 7,
+	"tierRank": "F",
+	"baseAttack": 68,
+	"baseDefense": 64,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "014",
+	"evolNextCandy": 12,
+	"evolNextNext": "015",
+	"evolNextNextCandy": 50,
+	"buddyRange": 1,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 256,
+	"eggPercent": 12.3,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Sting",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 14,
+	"num": "014",
+	"name": "Kakuna",
+	"weight": 10.00,
+	"height": 0.60,
+	"spawnPercent": 0.44,
+	"spawnsAvg": 44,
+	"spawnTime": "02:30",
+	"multipliers": [
+	  3.01,
+	  3.41
+	],
+	"type": [
+	  "Bug",
+	  "Poison"
+	],
+	"maxCP": 485.35,
+	"CPperlvl": 7,
+	"tierRank": "F",
+	"baseAttack": 62,
+	"baseDefense": 82,
+	"baseStamina": 90,
+	"capturePercent": 20,
+	"fleePercent": 9,
+	"evolPrev": "013",
+	"evolPrevCandy": 12,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "015",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Sting",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 15,
+	"num": "015",
+	"name": "Beedrill",
+	"weight": 29.50,
+	"height": 1.00,
+	"spawnPercent": 0.051,
+	"spawnsAvg": 5.1,
+	"spawnTime": "04:50",
+	"multipliers": [],
+	"type": [
+	  "Bug",
+	  "Poison"
+	],
+	"maxCP": 1439.96,
+	"CPperlvl": 21,
+	"tierRank": "B",
+	"baseAttack": 144,
+	"baseDefense": 130,
+	"baseStamina": 130,
+	"capturePercent": 10,
+	"fleePercent": 6,
+	"evolPrev": "014",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": "013",
+	"evolPrevPrevCandy": 12,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Sludge Bomb",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 16,
+	"num": "016",
+	"name": "Pidgey",
+	"weight": 1.80,
+	"height": 0.30,
+	"spawnPercent": 15.98,
+	"spawnsAvg": 1.598,
+	"spawnTime": "01:34",
+	"multipliers": [
+	  1.71,
+	  1.92
+	],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 679.93,
+	"CPperlvl": 10,
+	"tierRank": "F",
+	"baseAttack": 94,
+	"baseDefense": 90,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "017",
+	"evolNextCandy": 12,
+	"evolNextNext": "018",
+	"evolNextNextCandy": 50,
+	"buddyRange": 1,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 388,
+	"eggPercent": 11.4,
+	"quickMoves": [
+	  "Tackle",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Air Cutter",
+	  "Twister"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Aerial Ace"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Aerial Ace"
+	]
+  },
+  {
+	"id": 17,
+	"num": "017",
+	"name": "Pidgeotto",
+	"weight": 30.00,
+	"height": 1.10,
+	"spawnPercent": 1.02,
+	"spawnsAvg": 102,
+	"spawnTime": "01:30",
+	"multipliers": [1.79],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 1223.98,
+	"CPperlvl": 18,
+	"tierRank": "B",
+	"baseAttack": 126,
+	"baseDefense": 122,
+	"baseStamina": 126,
+	"capturePercent": 20,
+	"fleePercent": 9,
+	"evolPrev": "016",
+	"evolPrevCandy": 12,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "018",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Steel Wing",
+	  "Wing Attack"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Air Cutter",
+	  "Twister"
+	],
+	"bestAttackMoveset": [
+	  "Wing Attack",
+	  "Aerial Ace"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Aerial Ace"
+	]
+  },
+  {
+	"id": 18,
+	"num": "018",
+	"name": "Pidgeot",
+	"weight": 39.50,
+	"height": 1.50,
+	"spawnPercent": 0.13,
+	"spawnsAvg": 13,
+	"spawnTime": "01:50",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 2091.39,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 170,
+	"baseDefense": 166,
+	"baseStamina": 166,
+	"capturePercent": 10,
+	"fleePercent": 6,
+	"evolPrev": "017",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": "016",
+	"evolPrevPrevCandy": 12,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Steel Wing",
+	  "Wing Attack"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Air Cutter",
+	  "Hurricane"
+	],
+	"bestAttackMoveset": [
+	  "Wing Attack",
+	  "Hurricane"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Hurricane"
+	]
+  },
+  {
+	"id": 19,
+	"num": "019",
+	"name": "Rattata",
+	"weight": 3.50,
+	"height": 0.30,
+	"spawnPercent": 13.05,
+	"spawnsAvg": 1.305,
+	"spawnTime": "01:55",
+	"multipliers": [
+	  2.55,
+	  2.73
+	],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 581.65,
+	"CPperlvl": 9,
+	"tierRank": "F",
+	"baseAttack": 92,
+	"baseDefense": 86,
+	"baseStamina": 60,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "020",
+	"evolNextCandy": 25,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 332,
+	"eggPercent": 10.4,
+	"quickMoves": [
+	  "Tackle",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Dig",
+	  "Hyper Fang"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Body Slam"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Hyper Fang"
+	]
+  },
+  {
+	"id": 20,
+	"num": "020",
+	"name": "Raticate",
+	"weight": 18.50,
+	"height": 0.70,
+	"spawnPercent": 0.41,
+	"spawnsAvg": 41,
+	"spawnTime": "01:56",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1444.13,
+	"CPperlvl": 21,
+	"tierRank": "B",
+	"baseAttack": 146,
+	"baseDefense": 150,
+	"baseStamina": 110,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "019",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Hyper Beam",
+	  "Hyper Fang"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Quick Attack",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 21,
+	"num": "021",
+	"name": "Spearow",
+	"weight": 2.00,
+	"height": 0.30,
+	"spawnPercent": 4.73,
+	"spawnsAvg": 473,
+	"spawnTime": "12:25",
+	"multipliers": [
+	  2.66,
+	  2.68
+	],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 686.87,
+	"CPperlvl": 10,
+	"tierRank": "F",
+	"baseAttack": 102,
+	"baseDefense": 78,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "022",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 392,
+	"eggPercent": 3.3,
+	"quickMoves": [
+	  "Peck",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Drill Peck",
+	  "Twister"
+	],
+	"bestAttackMoveset": [
+	  "Peck",
+	  "Drill Peck"
+	],
+	"bestDefenceMoveset": [
+	  "Quick Attack",
+	  "Drill Peck"
+	]
+  },
+  {
+	"id": 22,
+	"num": "022",
+	"name": "Fearow",
+	"weight": 38.00,
+	"height": 1.20,
+	"spawnPercent": 0.15,
+	"spawnsAvg": 15,
+	"spawnTime": "01:11",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 1746.35,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 168,
+	"baseDefense": 146,
+	"baseStamina": 130,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "021",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Peck",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Twister",
+	  "Drill Run"
+	],
+	"bestAttackMoveset": [
+	  "Steel Wing",
+	  "Drill Run"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Drill Run"
+	]
+  },
+  {
+	"id": 23,
+	"num": "023",
+	"name": "Ekans",
+	"weight": 6.90,
+	"height": 2.00,
+	"spawnPercent": 2.27,
+	"spawnsAvg": 227,
+	"spawnTime": "12:20",
+	"multipliers": [
+	  2.21,
+	  2.27
+	],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 824.14,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 112,
+	"baseDefense": 112,
+	"baseStamina": 70,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "024",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 470,
+	"eggPercent": 3.8,
+	"quickMoves": [
+	  "Acid",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Gunk Shot",
+	  "Sludge Bomb",
+	  "Wrap"
+	],
+	"bestAttackMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Acid",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 24,
+	"num": "024",
+	"name": "Arbok",
+	"weight": 65.00,
+	"height": 3.50,
+	"spawnPercent": 0.072,
+	"spawnsAvg": 7.2,
+	"spawnTime": "01:50",
+	"multipliers": [],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 1767.13,
+	"CPperlvl": 26,
+	"tierRank": "B",
+	"baseAttack": 166,
+	"baseDefense": 166,
+	"baseStamina": 120,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "023",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Bite"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Gunk Shot",
+	  "Sludge Wave"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Gunk Shot"
+	],
+	"bestDefenceMoveset": [
+	  "Acid",
+	  "Dark Pulse"
+	]
+  },
+  {
+	"id": 25,
+	"num": "025",
+	"name": "Pikachu",
+	"weight": 6.00,
+	"height": 0.40,
+	"spawnPercent": 0.21,
+	"spawnsAvg": 21,
+	"spawnTime": "04:00",
+	"multipliers": [2.34],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 887.69,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 124,
+	"baseDefense": 108,
+	"baseStamina": 70,
+	"capturePercent": 16,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "026",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 507,
+	"eggPercent": 4.7,
+	"quickMoves": [
+	  "Quick Attack",
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Thunder",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Thunder Shock",
+	  "Thunder"
+	],
+	"bestDefenceMoveset": [
+	  "Quick Attack",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 26,
+	"num": "026",
+	"name": "Raichu",
+	"weight": 30.00,
+	"height": 0.80,
+	"spawnPercent": 0.0076,
+	"spawnsAvg": 0.76,
+	"spawnTime": "23:58",
+	"multipliers": [],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 2028.30,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 200,
+	"baseDefense": 154,
+	"baseStamina": 120,
+	"capturePercent": 8,
+	"fleePercent": 6,
+	"evolPrev": "025",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Spark",
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Thunder",
+	  "Thunder Punch"
+	],
+	"bestAttackMoveset": [
+	  "Spark",
+	  "Thunder"
+	],
+	"bestDefenceMoveset": [
+	  "Spark",
+	  "Thunder Punch"
+	]
+  },
+  {
+	"id": 27,
+	"num": "027",
+	"name": "Sandshrew",
+	"weight": 12.00,
+	"height": 0.60,
+	"spawnPercent": 1.11,
+	"spawnsAvg": 111,
+	"spawnTime": "01:58",
+	"multipliers": [2.45],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 798.76,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 90,
+	"baseDefense": 114,
+	"baseStamina": 100,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "028",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 456,
+	"eggPercent": 4.1,
+	"quickMoves": [
+	  "Mud Shot",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Rock Slide",
+	  "Rock Tomb"
+	],
+	"bestAttackMoveset": [
+	  "Mud Shot",
+	  "Rock Slide"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Shot",
+	  "Dig"
+	]
+  },
+  {
+	"id": 28,
+	"num": "028",
+	"name": "Sandslash",
+	"weight": 29.50,
+	"height": 1.00,
+	"spawnPercent": 0.037,
+	"spawnsAvg": 3.7,
+	"spawnTime": "12:34",
+	"multipliers": [],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 1810.22,
+	"CPperlvl": 26,
+	"tierRank": "B",
+	"baseAttack": 150,
+	"baseDefense": 172,
+	"baseStamina": 150,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "027",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Metal Claw",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Bulldoze",
+	  "Earthquake",
+	  "Rock Tomb"
+	],
+	"bestAttackMoveset": [
+	  "Mud Shot",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Metal Claw",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 29,
+	"num": "029",
+	"name": "Nidoran♀",
+	"weight": 7.00,
+	"height": 0.40,
+	"spawnPercent": 1.38,
+	"spawnsAvg": 138,
+	"spawnTime": "01:51",
+	"multipliers": [
+	  1.63,
+	  2.48
+	],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 876.01,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 100,
+	"baseDefense": 104,
+	"baseStamina": 110,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "030",
+	"evolNextCandy": 25,
+	"evolNextNext": "031",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 500,
+	"eggPercent": 3.8,
+	"quickMoves": [
+	  "Bite",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Poison Fang",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 30,
+	"num": "030",
+	"name": "Nidorina",
+	"weight": 20.00,
+	"height": 0.80,
+	"spawnPercent": 0.088,
+	"spawnsAvg": 8.8,
+	"spawnTime": "07:22",
+	"multipliers": [
+	  1.83,
+	  2.48
+	],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 1404.61,
+	"CPperlvl": 20,
+	"tierRank": "B",
+	"baseAttack": 132,
+	"baseDefense": 136,
+	"baseStamina": 140,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "029",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "031",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Poison Fang",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 31,
+	"num": "031",
+	"name": "Nidoqueen",
+	"weight": 60.00,
+	"height": 1.30,
+	"spawnPercent": 0.012,
+	"spawnsAvg": 1.2,
+	"spawnTime": "12:35",
+	"multipliers": [],
+	"type": [
+	  "Ground",
+	  "Poison"
+	],
+	"maxCP": 2485.03,
+	"CPperlvl": 36,
+	"tierRank": "S",
+	"baseAttack": 184,
+	"baseDefense": 190,
+	"baseStamina": 180,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "030",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "029",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Ice",
+		"Psychic",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Earthquake",
+	  "Sludge Wave",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 32,
+	"num": "032",
+	"name": "Nidoran♂",
+	"weight": 9.00,
+	"height": 0.50,
+	"spawnPercent": 1.31,
+	"spawnsAvg": 131,
+	"spawnTime": "01:12",
+	"multipliers": [
+	  1.64,
+	  1.7
+	],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 843.14,
+	"CPperlvl": 110,
+	"tierRank": "F",
+	"baseAttack": 94,
+	"baseDefense": 92,
+	"baseStamina": 92,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "033",
+	"evolNextCandy": 25,
+	"evolNextNext": "034",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 481,
+	"eggPercent": 4.2,
+	"quickMoves": [
+	  "Peck",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Horn Attack",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Poison Sting",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Peck",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 33,
+	"num": "033",
+	"name": "Nidorino",
+	"weight": 19.50,
+	"height": 0.90,
+	"spawnPercent": 0.083,
+	"spawnsAvg": 8.3,
+	"spawnTime": "09:02",
+	"multipliers": [1.83],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 1372.50,
+	"CPperlvl": 20,
+	"tierRank": "B",
+	"baseAttack": 142,
+	"baseDefense": 128,
+	"baseStamina": 122,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "032",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "034",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Poison Sting",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Horn Attack",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 34,
+	"num": "034",
+	"name": "Nidoking",
+	"weight": 62.00,
+	"height": 1.40,
+	"spawnPercent": 0.017,
+	"spawnsAvg": 1.7,
+	"spawnTime": "12:16",
+	"multipliers": [],
+	"type": [
+	  "Ground",
+	  "Poison"
+	],
+	"maxCP": 2475.14,
+	"CPperlvl": 36,
+	"tierRank": "S",
+	"baseAttack": 204,
+	"baseDefense": 170,
+	"baseStamina": 162,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "033",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "032",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Ice",
+		"Psychic",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Fury Cutter",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Earthquake",
+	  "Megahorn",
+	  "Sludge Wave"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 35,
+	"num": "035",
+	"name": "Clefairy",
+	"weight": 7.50,
+	"height": 0.60,
+	"spawnPercent": 0.92,
+	"spawnsAvg": 92,
+	"spawnTime": "03:30",
+	"multipliers": [
+	  2.03,
+	  2.14
+	],
+	"type": [
+	  "Fairy"
+	],
+	"maxCP": 1200.96,
+	"CPperlvl": 18,
+	"tierRank": "B",
+	"baseAttack": 116,
+	"baseDefense": 124,
+	"baseStamina": 140,
+	"capturePercent": 24,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "036",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Dragon",
+		"Fighting"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Poison",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Churches, Landmarks, Places of Interest, Cemeteries"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 686,
+	"eggPercent": 1.4,
+	"quickMoves": [
+	  "Pound",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Disarming Voice",
+	  "Moonblast"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Moonblast"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Moonblast"
+	]
+  },
+  {
+	"id": 36,
+	"num": "036",
+	"name": "Clefable",
+	"weight": 40.00,
+	"height": 1.30,
+	"spawnPercent": 0.012,
+	"spawnsAvg": 1.2,
+	"spawnTime": "03:29",
+	"multipliers": [],
+	"type": [
+	  "Fairy"
+	],
+	"maxCP": 2397.71,
+	"CPperlvl": 35,
+	"tierRank": "A",
+	"baseAttack": 178,
+	"baseDefense": 178,
+	"baseStamina": 190,
+	"capturePercent": 8,
+	"fleePercent": 6,
+	"evolPrev": "035",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Dragon",
+		"Fighting"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Poison",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Churches, Landmarks, Places of Interest, Cemeteries"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Pound",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Dazzling Gleam",
+	  "Moonblast",
+	  "Psychic"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Moonblast"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Dazzling Gleam"
+	]
+  },
+  {
+	"id": 37,
+	"num": "037",
+	"name": "Vulpix",
+	"weight": 9.90,
+	"height": 0.60,
+	"spawnPercent": 0.22,
+	"spawnsAvg": 22,
+	"spawnTime": "13:43",
+	"multipliers": [
+	  2.74,
+	  2.81
+	],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 831.41,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 106,
+	"baseDefense": 118,
+	"baseStamina": 76,
+	"capturePercent": 24,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "038",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 475,
+	"eggPercent": 2.8,
+	"quickMoves": [
+	  "Ember",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Flamethrower",
+	  "Flame Charge"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 38,
+	"num": "038",
+	"name": "Ninetales",
+	"weight": 19.90,
+	"height": 1.10,
+	"spawnPercent": 0.0077,
+	"spawnsAvg": 0.77,
+	"spawnTime": "01:32",
+	"multipliers": [],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 2188.28,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 176,
+	"baseDefense": 194,
+	"baseStamina": 146,
+	"capturePercent": 8,
+	"fleePercent": 6,
+	"evolPrev": "037",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember",
+	  "Feint Attack"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Flamethrower",
+	  "Heat Wave"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 39,
+	"num": "039",
+	"name": "Jigglypuff",
+	"weight": 5.50,
+	"height": 0.50,
+	"spawnPercent": 0.39,
+	"spawnsAvg": 39,
+	"spawnTime": "08:46",
+	"multipliers": [1.85],
+	"type": [
+	  "Fairy",
+	  "Normal"
+	],
+	"maxCP": 917.64,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 98,
+	"baseDefense": 54,
+	"baseStamina": 230,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "040",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Dragon",
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Poison",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots",
+	  "Churches, Landmarks, Places of Interest, Cemeteries"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 524,
+	"eggPercent": 1.7,
+	"quickMoves": [
+	  "Feint Attack",
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Dazzling Gleam",
+	  "Disarming Voice"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Body Slam"
+	],
+	"bestDefenceMoveset": [
+	  "Feint Attack",
+	  "Dazzling Gleam"
+	]
+  },
+  {
+	"id": 40,
+	"num": "040",
+	"name": "Wigglytuff",
+	"weight": 12.00,
+	"height": 1.00,
+	"spawnPercent": 0.018,
+	"spawnsAvg": 1.8,
+	"spawnTime": "12:28",
+	"multipliers": [],
+	"type": [
+	  "Fairy",
+	  "Normal"
+	],
+	"maxCP": 2177.20,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 168,
+	"baseDefense": 108,
+	"baseStamina": 280,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "039",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Dragon",
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Poison",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots",
+	  "Churches, Landmarks, Places of Interest, Cemeteries"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Feint Attack",
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Dazzling Gleam",
+	  "Hyper Beam",
+	  "Play Rough"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Feint Attack",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 41,
+	"num": "041",
+	"name": "Zubat",
+	"weight": 7.50,
+	"height": 0.80,
+	"spawnPercent": 6.52,
+	"spawnsAvg": 652,
+	"spawnTime": "12:28",
+	"multipliers": [
+	  2.6,
+	  3.67
+	],
+	"type": [
+	  "Flying",
+	  "Poison"
+	],
+	"maxCP": 642.51,
+	"CPperlvl": 9,
+	"tierRank": "F",
+	"baseAttack": 88,
+	"baseDefense": 90,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 20,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "042",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Bug",
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Fairy",
+		"Ground",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 367,
+	"eggPercent": 8.3,
+	"quickMoves": [
+	  "Bite",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Air Cutter",
+	  "Poison Fang",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Quick Attack",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 42,
+	"num": "042",
+	"name": "Golbat",
+	"weight": 55.00,
+	"height": 1.60,
+	"spawnPercent": 0.42,
+	"spawnsAvg": 42,
+	"spawnTime": "02:15",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Poison"
+	],
+	"maxCP": 1921.35,
+	"CPperlvl": 28,
+	"tierRank": "B",
+	"baseAttack": 164,
+	"baseDefense": 164,
+	"baseStamina": 150,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "041",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Bug",
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Fairy",
+		"Ground",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Wing Attack"
+	],
+	"chargeMoves": [
+	  "Air Cutter",
+	  "Poison Fang",
+	  "Ominous Wind"
+	],
+	"bestAttackMoveset": [
+	  "Wing Attack",
+	  "Poison Fang"
+	],
+	"bestDefenceMoveset": [
+	  "Wing Attack",
+	  "Poison Fang"
+	]
+  },
+  {
+	"id": 43,
+	"num": "043",
+	"name": "Oddish",
+	"weight": 5.40,
+	"height": 0.50,
+	"spawnPercent": 1.02,
+	"spawnsAvg": 102,
+	"spawnTime": "03:58",
+	"multipliers": [1.5],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1148.28,
+	"CPperlvl": 17,
+	"tierRank": "B",
+	"baseAttack": 134,
+	"baseDefense": 130,
+	"baseStamina": 90,
+	"capturePercent": 48,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "044",
+	"evolNextCandy": 25,
+	"evolNextNext": "045",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 656,
+	"eggPercent": 4.0,
+	"quickMoves": [
+	  "Acid",
+	  "Razor Leaf"
+	],
+	"chargeMoves": [
+	  "Moonblast",
+	  "Seed Bomb",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Razor Leaf",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 44,
+	"num": "044",
+	"name": "Gloom",
+	"weight": 8.60,
+	"height": 0.80,
+	"spawnPercent": 0.064,
+	"spawnsAvg": 6.4,
+	"spawnTime": "11:33",
+	"multipliers": [1.49],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1689.46,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 162,
+	"baseDefense": 158,
+	"baseStamina": 120,
+	"capturePercent": 24,
+	"fleePercent": 7,
+	"evolPrev": "043",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "045",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Razor Leaf"
+	],
+	"chargeMoves": [
+	  "Moonblast",
+	  "Petal Blizzard",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Razor Leaf",
+	  "Petal Blizzard"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Petal Blizzard"
+	]
+  },
+  {
+	"id": 45,
+	"num": "045",
+	"name": "Vileplume",
+	"weight": 18.60,
+	"height": 1.20,
+	"spawnPercent": 0.0097,
+	"spawnsAvg": 0.97,
+	"spawnTime": "23:58",
+	"multipliers": [],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 2492.66,
+	"CPperlvl": 36,
+	"tierRank": "S",
+	"baseAttack": 202,
+	"baseDefense": 190,
+	"baseStamina": 150,
+	"capturePercent": 12,
+	"fleePercent": 5,
+	"evolPrev": "044",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "043",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Razor Leaf"
+	],
+	"chargeMoves": [
+	  "Moonblast",
+	  "Petal Blizzard",
+	  "Solar Beam"
+	],
+	"bestAttackMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 46,
+	"num": "046",
+	"name": "Paras",
+	"weight": 5.40,
+	"height": 0.30,
+	"spawnPercent": 2.36,
+	"spawnsAvg": 236,
+	"spawnTime": "01:42",
+	"multipliers": [2.02],
+	"type": [
+	  "Bug",
+	  "Grass"
+	],
+	"maxCP": 916.60,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 122,
+	"baseDefense": 120,
+	"baseStamina": 70,
+	"capturePercent": 32,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "047",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass",
+		"Ground"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Ice",
+		"Poison",
+		"Rock"
+	  ],
+	  "m156x": [
+		"Fire",
+		"Flying"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 523,
+	"eggPercent": 4.1,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Cross Poison",
+	  "Seed Bomb",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Seed Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Bug Bite",
+	  "Seed Bomb"
+	]
+  },
+  {
+	"id": 47,
+	"num": "047",
+	"name": "Parasect",
+	"weight": 29.50,
+	"height": 1.00,
+	"spawnPercent": 0.074,
+	"spawnsAvg": 7.4,
+	"spawnTime": "01:22",
+	"multipliers": [],
+	"type": [
+	  "Bug",
+	  "Grass"
+	],
+	"maxCP": 1747.07,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 162,
+	"baseDefense": 170,
+	"baseStamina": 120,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "046",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass",
+		"Ground"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Ice",
+		"Poison",
+		"Rock"
+	  ],
+	  "m156x": [
+		"Fire",
+		"Flying"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Fury Cutter"
+	],
+	"chargeMoves": [
+	  "Cross Poison",
+	  "Solar Beam",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Bug Bite",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 48,
+	"num": "048",
+	"name": "Venonat",
+	"weight": 30.00,
+	"height": 1.00,
+	"spawnPercent": 2.28,
+	"spawnsAvg": 228,
+	"spawnTime": "02:31",
+	"multipliers": [
+	  1.86,
+	  1.9
+	],
+	"type": [
+	  "Bug",
+	  "Poison"
+	],
+	"maxCP": 1029.39,
+	"CPperlvl": 15,
+	"tierRank": "F",
+	"baseAttack": 108,
+	"baseDefense": 118,
+	"baseStamina": 120,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "049",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 588,
+	"eggPercent": 2.0,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Confusion"
+	],
+	"chargeMoves": [
+	  "Poison Fang",
+	  "Psybeam",
+	  "Signal Beam"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Signal Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Signal Beam"
+	]
+  },
+  {
+	"id": 49,
+	"num": "049",
+	"name": "Venomoth",
+	"weight": 12.50,
+	"height": 1.50,
+	"spawnPercent": 0.072,
+	"spawnsAvg": 7.2,
+	"spawnTime": "23:40",
+	"multipliers": [],
+	"type": [
+	  "Bug",
+	  "Poison"
+	],
+	"maxCP": 1890.32,
+	"CPperlvl": 28,
+	"tierRank": "B",
+	"baseAttack": 172,
+	"baseDefense": 154,
+	"baseStamina": 140,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "048",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Psychic",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bug Bite",
+	  "Confusion"
+	],
+	"chargeMoves": [
+	  "Bug Buzz",
+	  "Poison Fang",
+	  "Psychic"
+	],
+	"bestAttackMoveset": [
+	  "Bug Bite",
+	  "Bug Buzz"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Bug Buzz"
+	]
+  },
+  {
+	"id": 50,
+	"num": "050",
+	"name": "Diglett",
+	"weight": 0.80,
+	"height": 0.20,
+	"spawnPercent": 0.4,
+	"spawnsAvg": 40,
+	"spawnTime": "02:22",
+	"multipliers": [2.69],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 456.76,
+	"CPperlvl": 7,
+	"tierRank": "F",
+	"baseAttack": 108,
+	"baseDefense": 86,
+	"baseStamina": 20,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "051",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 260,
+	"eggPercent": 1.1,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Mud Bomb",
+	  "Rock Tomb"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Dig"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Dig"
+	]
+  },
+  {
+	"id": 51,
+	"num": "051",
+	"name": "Dugtrio",
+	"weight": 33.30,
+	"height": 0.70,
+	"spawnPercent": 0.014,
+	"spawnsAvg": 1.4,
+	"spawnTime": "12:37",
+	"multipliers": [],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 1168.55,
+	"CPperlvl": 17,
+	"tierRank": "B",
+	"baseAttack": 148,
+	"baseDefense": 140,
+	"baseStamina": 70,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "050",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Sucker Punch"
+	],
+	"chargeMoves": [
+	  "Earthquake",
+	  "Mud Bomb",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 52,
+	"num": "052",
+	"name": "Meowth",
+	"weight": 4.20,
+	"height": 0.40,
+	"spawnPercent": 0.86,
+	"spawnsAvg": 86,
+	"spawnTime": "02:54",
+	"multipliers": [1.98],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 756.32,
+	"CPperlvl": 11,
+	"tierRank": "F",
+	"baseAttack": 104,
+	"baseDefense": 94,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "053",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 432,
+	"eggPercent": 3.6,
+	"quickMoves": [
+	  "Bite",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Dark Pulse",
+	  "Night Slash"
+	],
+	"bestAttackMoveset": [
+	  "Scratch",
+	  "Body Slam"
+	],
+	"bestDefenceMoveset": [
+	  "Scratch",
+	  "Body Slam"
+	]
+  },
+  {
+	"id": 53,
+	"num": "053",
+	"name": "Persian",
+	"weight": 32.00,
+	"height": 1.00,
+	"spawnPercent": 0.022,
+	"spawnsAvg": 2.2,
+	"spawnTime": "02:44",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1631.84,
+	"CPperlvl": 24,
+	"tierRank": "B",
+	"baseAttack": 156,
+	"baseDefense": 146,
+	"baseStamina": 130,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "052",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Feint Attack",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Night Slash",
+	  "Play Rough",
+	  "Power Gem"
+	],
+	"bestAttackMoveset": [
+	  "Scratch",
+	  "Play Rough"
+	],
+	"bestDefenceMoveset": [
+	  "Feint Attack",
+	  "Play Rough"
+	]
+  },
+  {
+	"id": 54,
+	"num": "054",
+	"name": "Psyduck",
+	"weight": 19.60,
+	"height": 0.80,
+	"spawnPercent": 2.54,
+	"spawnsAvg": 254,
+	"spawnTime": "03:41",
+	"multipliers": [2.27],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1109.56,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 132,
+	"baseDefense": 112,
+	"baseStamina": 100,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "055",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 634,
+	"eggPercent": 2.4,
+	"quickMoves": [
+	  "Water Gun",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Aqua Tail",
+	  "Cross Chop",
+	  "Psybeam"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Aqua Tail"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Aqua Tail"
+	]
+  },
+  {
+	"id": 55,
+	"num": "055",
+	"name": "Golduck",
+	"weight": 76.60,
+	"height": 1.70,
+	"spawnPercent": 0.087,
+	"spawnsAvg": 8.7,
+	"spawnTime": "23:06",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 2386.52,
+	"CPperlvl": 35,
+	"tierRank": "A",
+	"baseAttack": 194,
+	"baseDefense": 176,
+	"baseStamina": 160,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "054",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Hydro Pump",
+	  "Ice Beam",
+	  "Psychic"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Hydro Pump"
+	]
+  },
+  {
+	"id": 56,
+	"num": "056",
+	"name": "Mankey",
+	"weight": 28.00,
+	"height": 0.50,
+	"spawnPercent": 0.92,
+	"spawnsAvg": 92,
+	"spawnTime": "12:52",
+	"multipliers": [
+	  2.17,
+	  2.28
+	],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 878.67,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 122,
+	"baseDefense": 96,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "057",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 502,
+	"eggPercent": 1.4,
+	"quickMoves": [
+	  "Karate Chop",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Cross Chop",
+	  "Low Sweep"
+	],
+	"bestAttackMoveset": [
+	  "Scratch",
+	  "Cross Chop"
+	],
+	"bestDefenceMoveset": [
+	  "Scratch",
+	  "Low Sweep"
+	]
+  },
+  {
+	"id": 57,
+	"num": "057",
+	"name": "Primeape",
+	"weight": 32.00,
+	"height": 1.00,
+	"spawnPercent": 0.031,
+	"spawnsAvg": 3.1,
+	"spawnTime": "12:33",
+	"multipliers": [],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 1864.52,
+	"CPperlvl": 27,
+	"tierRank": "B",
+	"baseAttack": 178,
+	"baseDefense": 150,
+	"baseStamina": 130,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "056",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Karate Chop",
+	  "Low Kick"
+	],
+	"chargeMoves": [
+	  "Cross Chop",
+	  "Low Sweep",
+	  "Night Slash"
+	],
+	"bestAttackMoveset": [
+	  "Low Kick",
+	  "Cross Chop"
+	],
+	"bestDefenceMoveset": [
+	  "Karate Chop",
+	  "Low Sweep"
+	]
+  },
+  {
+	"id": 58,
+	"num": "058",
+	"name": "Growlithe",
+	"weight": 19.00,
+	"height": 0.70,
+	"spawnPercent": 0.92,
+	"spawnsAvg": 92,
+	"spawnTime": "03:57",
+	"multipliers": [
+	  2.31,
+	  2.36
+	],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 1335.03,
+	"CPperlvl": 19,
+	"tierRank": "B",
+	"baseAttack": 156,
+	"baseDefense": 110,
+	"baseStamina": 110,
+	"capturePercent": 24,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "059",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 762,
+	"eggPercent": 3.5,
+	"quickMoves": [
+	  "Bite",
+	  "Ember"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Flame Wheel",
+	  "Flamethrower"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Flamethrower"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 59,
+	"num": "059",
+	"name": "Arcanine",
+	"weight": 155.00,
+	"height": 1.90,
+	"spawnPercent": 0.017,
+	"spawnsAvg": 1.7,
+	"spawnTime": "03:11",
+	"multipliers": [],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 2983.90,
+	"CPperlvl": 40,
+	"tierRank": "S",
+	"baseAttack": 230,
+	"baseDefense": 180,
+	"baseStamina": 180,
+	"capturePercent": 8,
+	"fleePercent": 6,
+	"evolPrev": "058",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite",
+	  "Fire Fang"
+	],
+	"chargeMoves": [
+	  "Bulldoze",
+	  "Fire Blast",
+	  "Flamethrower"
+	],
+	"bestAttackMoveset": [
+	  "Fire Fang",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Fire Fang",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 60,
+	"num": "060",
+	"name": "Poliwag",
+	"weight": 12.40,
+	"height": 0.60,
+	"spawnPercent": 2.19,
+	"spawnsAvg": 219,
+	"spawnTime": "03:40",
+	"multipliers": [
+	  1.72,
+	  1.73
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 795.96,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 108,
+	"baseDefense": 98,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "061",
+	"evolNextCandy": 25,
+	"evolNextNext": "062",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 454,
+	"eggPercent": 3.0,
+	"quickMoves": [
+	  "Bubble",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Bubble Beam",
+	  "Mud Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Body Slam"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Body Slam"
+	]
+  },
+  {
+	"id": 61,
+	"num": "061",
+	"name": "Poliwhirl",
+	"weight": 20.00,
+	"height": 1.00,
+	"spawnPercent": 0.13,
+	"spawnsAvg": 13,
+	"spawnTime": "09:14",
+	"multipliers": [1.95],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1340.43,
+	"CPperlvl": 20,
+	"tierRank": "B",
+	"baseAttack": 132,
+	"baseDefense": 132,
+	"baseStamina": 130,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "060",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "062",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bubble",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Mud Bomb",
+	  "Scald"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Scald"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Scald"
+	]
+  },
+  {
+	"id": 62,
+	"num": "062",
+	"name": "Poliwrath",
+	"weight": 54.00,
+	"height": 1.30,
+	"spawnPercent": 0.011,
+	"spawnsAvg": 1.1,
+	"spawnTime": "01:32",
+	"multipliers": [],
+	"type": [
+	  "Fighting",
+	  "Water"
+	],
+	"maxCP": 2505.33,
+	"CPperlvl": 37,
+	"tierRank": "S",
+	"baseAttack": 180,
+	"baseDefense": 202,
+	"baseStamina": 180,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "061",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "060",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Fire",
+		"Ice",
+		"Rock",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fairy",
+		"Flying",
+		"Grass",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bubble",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Hydro Pump",
+	  "Ice Punch",
+	  "Submission"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Hydro Pump"
+	]
+  },
+  {
+	"id": 63,
+	"num": "063",
+	"name": "Abra",
+	"weight": 19.50,
+	"height": 0.90,
+	"spawnPercent": 0.42,
+	"spawnsAvg": 42,
+	"spawnTime": "04:30",
+	"multipliers": [
+	  1.36,
+	  1.95
+	],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 600.44,
+	"CPperlvl": 9,
+	"tierRank": "F",
+	"baseAttack": 110,
+	"baseDefense": 76,
+	"baseStamina": 50,
+	"capturePercent": 40,
+	"fleePercent": 99,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "064",
+	"evolNextCandy": 25,
+	"evolNextNext": "065",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 343,
+	"eggPercent": 2.3,
+	"quickMoves": [
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Psyshock",
+	  "Shadow Ball",
+	  "Signal Beam"
+	],
+	"bestAttackMoveset": [
+	  "Zen Headbutt",
+	  "Psyshock"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Psyshock"
+	]
+  },
+  {
+	"id": 64,
+	"num": "064",
+	"name": "Kadabra",
+	"weight": 56.50,
+	"height": 1.30,
+	"spawnPercent": 0.027,
+	"spawnsAvg": 2.7,
+	"spawnTime": "11:25",
+	"multipliers": [1.4],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 1131.96,
+	"CPperlvl": 17,
+	"tierRank": "B",
+	"baseAttack": 150,
+	"baseDefense": 112,
+	"baseStamina": 80,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "063",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "065",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Psycho Cut"
+	],
+	"chargeMoves": [
+	  "Dazzling Gleam",
+	  "Psybeam",
+	  "Shadow Ball"
+	],
+	"bestAttackMoveset": [
+	  "Psycho Cut",
+	  "Shadow Ball"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psybeam"
+	]
+  },
+  {
+	"id": 65,
+	"num": "065",
+	"name": "Alakazam",
+	"weight": 48.00,
+	"height": 1.50,
+	"spawnPercent": 0.0073,
+	"spawnsAvg": 0.73,
+	"spawnTime": "12:33",
+	"multipliers": [],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 1813.82,
+	"CPperlvl": 26,
+	"tierRank": "B",
+	"baseAttack": 186,
+	"baseDefense": 152,
+	"baseStamina": 110,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "064",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "063",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Psycho Cut"
+	],
+	"chargeMoves": [
+	  "Dazzling Gleam",
+	  "Psychic",
+	  "Shadow Ball"
+	],
+	"bestAttackMoveset": [
+	  "Psycho Cut",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 66,
+	"num": "066",
+	"name": "Machop",
+	"weight": 19.50,
+	"height": 0.80,
+	"spawnPercent": 0.49,
+	"spawnsAvg": 49,
+	"spawnTime": "01:55",
+	"multipliers": [
+	  1.64,
+	  1.65
+	],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 1089.59,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 118,
+	"baseDefense": 96,
+	"baseStamina": 140,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "067",
+	"evolNextCandy": 25,
+	"evolNextNext": "068",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 622,
+	"eggPercent": 1.8,
+	"quickMoves": [
+	  "Karate Chop",
+	  "Low Kick"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Cross Chop",
+	  "Low Sweep"
+	],
+	"bestAttackMoveset": [
+	  "Low Kick",
+	  "Cross Chop"
+	],
+	"bestDefenceMoveset": [
+	  "Karate Chop",
+	  "Low Sweep"
+	]
+  },
+  {
+	"id": 67,
+	"num": "067",
+	"name": "Machoke",
+	"weight": 70.50,
+	"height": 1.50,
+	"spawnPercent": 0.034,
+	"spawnsAvg": 3.4,
+	"spawnTime": "10:32",
+	"multipliers": [1.7],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 1760.71,
+	"CPperlvl": 26,
+	"tierRank": "B",
+	"baseAttack": 154,
+	"baseDefense": 144,
+	"baseStamina": 160,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "066",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "068",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Karate Chop",
+	  "Low Kick"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Cross Chop",
+	  "Submission"
+	],
+	"bestAttackMoveset": [
+	  "Low Kick",
+	  "Cross Chop"
+	],
+	"bestDefenceMoveset": [
+	  "Karate Chop",
+	  "Brick Break"
+	]
+  },
+  {
+	"id": 68,
+	"num": "068",
+	"name": "Machamp",
+	"weight": 130.00,
+	"height": 1.60,
+	"spawnPercent": 0.0068,
+	"spawnsAvg": 0.68,
+	"spawnTime": "02:55",
+	"multipliers": [],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 2594.17,
+	"CPperlvl": 38,
+	"tierRank": "S",
+	"baseAttack": 198,
+	"baseDefense": 180,
+	"baseStamina": 180,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "067",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "066",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bullet Punch",
+	  "Karate Chop"
+	],
+	"chargeMoves": [
+	  "Cross Chop",
+	  "Stone Edge",
+	  "Submission"
+	],
+	"bestAttackMoveset": [
+	  "Karate Chop",
+	  "Cross Chop"
+	],
+	"bestDefenceMoveset": [
+	  "Bullet Punch",
+	  "Submission"
+	]
+  },
+  {
+	"id": 69,
+	"num": "069",
+	"name": "Bellsprout",
+	"weight": 4.00,
+	"height": 0.70,
+	"spawnPercent": 1.15,
+	"spawnsAvg": 115,
+	"spawnTime": "04:10",
+	"multipliers": [1.57],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1117.43,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 158,
+	"baseDefense": 78,
+	"baseStamina": 100,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "070",
+	"evolNextCandy": 25,
+	"evolNextNext": "071",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 638,
+	"eggPercent": 3.3,
+	"quickMoves": [
+	  "Acid",
+	  "Vine Whip"
+	],
+	"chargeMoves": [
+	  "Power Whip",
+	  "Sludge Bomb",
+	  "Wrap"
+	],
+	"bestAttackMoveset": [
+	  "Vine Whip",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Acid",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 70,
+	"num": "070",
+	"name": "Weepinbell",
+	"weight": 6.40,
+	"height": 1.00,
+	"spawnPercent": 0.072,
+	"spawnsAvg": 7.2,
+	"spawnTime": "09:45",
+	"multipliers": [1.59],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 1723.76,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 190,
+	"baseDefense": 110,
+	"baseStamina": 130,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "069",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "071",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Razor Leaf"
+	],
+	"chargeMoves": [
+	  "Power Whip",
+	  "Seed Bomb",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Razor Leaf",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 71,
+	"num": "071",
+	"name": "Victreebel",
+	"weight": 15.50,
+	"height": 1.70,
+	"spawnPercent": 0.0059,
+	"spawnsAvg": 0.59,
+	"spawnTime": "12:19",
+	"multipliers": [],
+	"type": [
+	  "Grass",
+	  "Poison"
+	],
+	"maxCP": 2530.52,
+	"CPperlvl": 37,
+	"tierRank": "S",
+	"baseAttack": 222,
+	"baseDefense": 152,
+	"baseStamina": 160,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "070",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "069",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Electric",
+		"Fairy",
+		"Fighting",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Ice",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Razor Leaf"
+	],
+	"chargeMoves": [
+	  "Sludge Bomb",
+	  "Solar Beam",
+	  "Leaf Blade"
+	],
+	"bestAttackMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Razor Leaf",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 72,
+	"num": "072",
+	"name": "Tentacool",
+	"weight": 45.50,
+	"height": 0.90,
+	"spawnPercent": 0.81,
+	"spawnsAvg": 81,
+	"spawnTime": "03:20",
+	"multipliers": [2.52],
+	"type": [
+	  "Poison",
+	  "Water"
+	],
+	"maxCP": 905.15,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 106,
+	"baseDefense": 136,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "073",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Fire",
+		"Ice",
+		"Poison",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 517,
+	"eggPercent": 3.8,
+	"quickMoves": [
+	  "Bubble",
+	  "Poison Sting"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Water Pulse",
+	  "Wrap"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Water Pulse"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 73,
+	"num": "073",
+	"name": "Tentacruel",
+	"weight": 55.00,
+	"height": 1.60,
+	"spawnPercent": 0.082,
+	"spawnsAvg": 8.2,
+	"spawnTime": "23:36",
+	"multipliers": [],
+	"type": [
+	  "Poison",
+	  "Water"
+	],
+	"maxCP": 2220.32,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 170,
+	"baseDefense": 196,
+	"baseStamina": 160,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "072",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Fire",
+		"Ice",
+		"Poison",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Acid",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Hydro Pump",
+	  "Sludge Wave"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Hydro Pump"
+	]
+  },
+  {
+	"id": 74,
+	"num": "074",
+	"name": "Geodude",
+	"weight": 20.00,
+	"height": 0.40,
+	"spawnPercent": 1.19,
+	"spawnsAvg": 119,
+	"spawnTime": "12:40",
+	"multipliers": [
+	  1.75,
+	  1.76
+	],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 849.49,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 106,
+	"baseDefense": 118,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "075",
+	"evolNextCandy": 25,
+	"evolNextNext": "076",
+	"evolNextNextCandy": 100,
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 485,
+	"eggPercent": 3.9,
+	"quickMoves": [
+	  "Tackle",
+	  "Rock Throw"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Rock Slide",
+	  "Rock Tomb"
+	],
+	"bestAttackMoveset": [
+	  "Rock Throw",
+	  "Rock Slide"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Throw",
+	  "Dig"
+	]
+  },
+  {
+	"id": 75,
+	"num": "075",
+	"name": "Graveler",
+	"weight": 105.00,
+	"height": 1.00,
+	"spawnPercent": 0.071,
+	"spawnsAvg": 7.1,
+	"spawnTime": "04:53",
+	"multipliers": [
+	  1.64,
+	  1.72
+	],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 1433.63,
+	"CPperlvl": 21,
+	"tierRank": "B",
+	"baseAttack": 142,
+	"baseDefense": 156,
+	"baseStamina": 110,
+	"capturePercent": 20,
+	"fleePercent": 7,
+	"evolPrev": "074",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "076",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Throw"
+	],
+	"chargeMoves": [
+	  "Dig",
+	  "Rock Slide",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Stone Edge"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Dig"
+	]
+  },
+  {
+	"id": 76,
+	"num": "076",
+	"name": "Golem",
+	"weight": 300.00,
+	"height": 1.40,
+	"spawnPercent": 0.0047,
+	"spawnsAvg": 0.47,
+	"spawnTime": "12:16",
+	"multipliers": [],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 2303.17,
+	"CPperlvl": 34,
+	"tierRank": "A",
+	"baseAttack": 176,
+	"baseDefense": 198,
+	"baseStamina": 160,
+	"capturePercent": 10,
+	"fleePercent": 5,
+	"evolPrev": "075",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "074",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Throw"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Earthquake",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 77,
+	"num": "077",
+	"name": "Ponyta",
+	"weight": 30.00,
+	"height": 1.00,
+	"spawnPercent": 0.51,
+	"spawnsAvg": 51,
+	"spawnTime": "02:50",
+	"multipliers": [
+	  1.48,
+	  1.5
+	],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 1516.11,
+	"CPperlvl": 22,
+	"tierRank": "B",
+	"baseAttack": 168,
+	"baseDefense": 138,
+	"baseStamina": 100,
+	"capturePercent": 32,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "078",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 866,
+	"eggPercent": 4.6,
+	"quickMoves": [
+	  "Tackle",
+	  "Ember"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Flame Wheel",
+	  "Flame Charge"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	]
+  },
+  {
+	"id": 78,
+	"num": "078",
+	"name": "Rapidash",
+	"weight": 95.00,
+	"height": 1.70,
+	"spawnPercent": 0.011,
+	"spawnsAvg": 1.1,
+	"spawnTime": "04:00",
+	"multipliers": [],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 2199.34,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 200,
+	"baseDefense": 170,
+	"baseStamina": 130,
+	"capturePercent": 12,
+	"fleePercent": 6,
+	"evolPrev": "077",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember",
+	  "Low Kick"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Heat Wave",
+	  "Drill Run"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	]
+  },
+  {
+	"id": 79,
+	"num": "079",
+	"name": "Slowpoke",
+	"weight": 36.00,
+	"height": 1.20,
+	"spawnPercent": 1.05,
+	"spawnsAvg": 105,
+	"spawnTime": "07:12",
+	"multipliers": [2.21],
+	"type": [
+	  "Psychic",
+	  "Water"
+	],
+	"maxCP": 1218.90,
+	"CPperlvl": 18,
+	"tierRank": "B",
+	"baseAttack": 110,
+	"baseDefense": 110,
+	"baseStamina": 180,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "080",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Fire",
+		"Ice",
+		"Psychic",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Electric",
+		"Ghost",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 696,
+	"eggPercent": 1.8,
+	"quickMoves": [
+	  "Confusion",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Psychic",
+	  "Psyshock",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 80,
+	"num": "080",
+	"name": "Slowbro",
+	"weight": 78.50,
+	"height": 1.60,
+	"spawnPercent": 0.036,
+	"spawnsAvg": 3.6,
+	"spawnTime": "02:56",
+	"multipliers": [],
+	"type": [
+	  "Psychic",
+	  "Water"
+	],
+	"maxCP": 2597.19,
+	"CPperlvl": 38,
+	"tierRank": "S",
+	"baseAttack": 184,
+	"baseDefense": 198,
+	"baseStamina": 190,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "079",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Fire",
+		"Ice",
+		"Psychic",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Electric",
+		"Ghost",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Ice Beam",
+	  "Psychic",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 81,
+	"num": "081",
+	"name": "Magnemite",
+	"weight": 6.00,
+	"height": 0.30,
+	"spawnPercent": 0.71,
+	"spawnsAvg": 71,
+	"spawnTime": "04:04",
+	"multipliers": [
+	  2.16,
+	  2.17
+	],
+	"type": [
+	  "Electric",
+	  "Steel"
+	],
+	"maxCP": 890.68,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 128,
+	"baseDefense": 138,
+	"baseStamina": 50,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "082",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Flying",
+		"Steel"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Dragon",
+		"Electric",
+		"Fairy",
+		"Grass",
+		"Ice",
+		"Normal",
+		"Psychic",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Fire"
+	  ],
+	  "m156x": [
+		"Ground"
+	  ]
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 508,
+	"eggPercent": 2.2,
+	"quickMoves": [
+	  "Spark",
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Magnet Bomb",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Spark",
+	  "Thunderbolt"
+	],
+	"bestDefenceMoveset": [
+	  "Spark",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 82,
+	"num": "082",
+	"name": "Magneton",
+	"weight": 60.00,
+	"height": 1.00,
+	"spawnPercent": 0.023,
+	"spawnsAvg": 2.3,
+	"spawnTime": "15:25",
+	"multipliers": [],
+	"type": [
+	  "Electric",
+	  "Steel"
+	],
+	"maxCP": 1879.95,
+	"CPperlvl": 27,
+	"tierRank": "B",
+	"baseAttack": 186,
+	"baseDefense": 180,
+	"baseStamina": 100,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "081",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Flying",
+		"Steel"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Dragon",
+		"Electric",
+		"Fairy",
+		"Grass",
+		"Ice",
+		"Normal",
+		"Psychic",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Fire"
+	  ],
+	  "m156x": [
+		"Ground"
+	  ]
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Spark",
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Flash Cannon",
+	  "Magnet Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Spark",
+	  "Flash Cannon"
+	],
+	"bestDefenceMoveset": [
+	  "Spark",
+	  "Flash Cannon"
+	]
+  },
+  {
+	"id": 83,
+	"num": "083",
+	"name": "Farfetch'd",
+	"weight": 15.00,
+	"height": 0.80,
+	"spawnPercent": 0.0212,
+	"spawnsAvg": 2.12,
+	"spawnTime": "01:09",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 1263.89,
+	"CPperlvl": 18,
+	"tierRank": "B",
+	"baseAttack": 138,
+	"baseDefense": 132,
+	"baseStamina": 104,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Fury Cutter",
+	  "Cut"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Air Cutter",
+	  "Leaf Blade"
+	],
+	"bestAttackMoveset": [
+	  "Cut",
+	  "Leaf Blade"
+	],
+	"bestDefenceMoveset": [
+	  "Cut",
+	  "Leaf Blade"
+	]
+  },
+  {
+	"id": 84,
+	"num": "084",
+	"name": "Doduo",
+	"weight": 39.20,
+	"height": 1.40,
+	"spawnPercent": 0.52,
+	"spawnsAvg": 52,
+	"spawnTime": "05:10",
+	"multipliers": [
+	  2.19,
+	  2.24
+	],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 855.41,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 126,
+	"baseDefense": 96,
+	"baseStamina": 70,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "085",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 488,
+	"eggPercent": 1.4,
+	"quickMoves": [
+	  "Peck",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Drill Peck",
+	  "Swift"
+	],
+	"bestAttackMoveset": [
+	  "Peck",
+	  "Drill Peck"
+	],
+	"bestDefenceMoveset": [
+	  "Quick Attack",
+	  "Drill Peck"
+	]
+  },
+  {
+	"id": 85,
+	"num": "085",
+	"name": "Dodrio",
+	"weight": 85.20,
+	"height": 1.80,
+	"spawnPercent": 0.22,
+	"spawnsAvg": 22,
+	"spawnTime": "02:12",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Normal"
+	],
+	"maxCP": 1836.37,
+	"CPperlvl": 27,
+	"tierRank": "B",
+	"baseAttack": 182,
+	"baseDefense": 150,
+	"baseStamina": 120,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "084",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Ghost",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Feint Attack",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Aerial Ace",
+	  "Air Cutter",
+	  "Drill Peck"
+	],
+	"bestAttackMoveset": [
+	  "Feint Attack",
+	  "Drill Peck"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Drill Peck"
+	]
+  },
+  {
+	"id": 86,
+	"num": "086",
+	"name": "Seel",
+	"weight": 90.00,
+	"height": 1.10,
+	"spawnPercent": 0.28,
+	"spawnsAvg": 28,
+	"spawnTime": "06:46",
+	"multipliers": [
+	  1.04,
+	  1.96
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1107.03,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 104,
+	"baseDefense": 138,
+	"baseStamina": 130,
+	"capturePercent": 40,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "087",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 632,
+	"eggPercent": 1.3,
+	"quickMoves": [
+	  "Lick",
+	  "Ice Shard"
+	],
+	"chargeMoves": [
+	  "Aqua Jet",
+	  "Aqua Tail",
+	  "Icy Wind"
+	],
+	"bestAttackMoveset": [
+	  "Lick",
+	  "Aqua Tail"
+	],
+	"bestDefenceMoveset": [
+	  "Ice Shard",
+	  "Aqua Tail"
+	]
+  },
+  {
+	"id": 87,
+	"num": "087",
+	"name": "Dewgong",
+	"weight": 120.00,
+	"height": 1.70,
+	"spawnPercent": 0.013,
+	"spawnsAvg": 1.3,
+	"spawnTime": "06:04",
+	"multipliers": [],
+	"type": [
+	  "Ice",
+	  "Water"
+	],
+	"maxCP": 2145.77,
+	"CPperlvl": 31,
+	"tierRank": "A",
+	"baseAttack": 156,
+	"baseDefense": 192,
+	"baseStamina": 180,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "086",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Ice"
+	  ],
+	  "m08x": [
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Grass",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Bodies of Water, Ski Resorts, Glacier, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Frost Breath",
+	  "Ice Shard"
+	],
+	"chargeMoves": [
+	  "Aqua Jet",
+	  "Blizzard",
+	  "Icy Wind"
+	],
+	"bestAttackMoveset": [
+	  "Frost Breath",
+	  "Blizzard"
+	],
+	"bestDefenceMoveset": [
+	  "Ice Shard",
+	  "Blizzard"
+	]
+  },
+  {
+	"id": 88,
+	"num": "088",
+	"name": "Grimer",
+	"weight": 30.00,
+	"height": 0.90,
+	"spawnPercent": 0.052,
+	"spawnsAvg": 5.2,
+	"spawnTime": "15:11",
+	"multipliers": [2.44],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 1284.02,
+	"CPperlvl": 19,
+	"tierRank": "B",
+	"baseAttack": 124,
+	"baseDefense": 110,
+	"baseStamina": 160,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "089",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 733,
+	"eggPercent": 0.5,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Mud Bomb",
+	  "Sludge",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 89,
+	"num": "089",
+	"name": "Muk",
+	"weight": 30.00,
+	"height": 1.20,
+	"spawnPercent": 0.0031,
+	"spawnsAvg": 0.31,
+	"spawnTime": "01:28",
+	"multipliers": [],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 2602.90,
+	"CPperlvl": 38,
+	"tierRank": "S",
+	"baseAttack": 180,
+	"baseDefense": 188,
+	"baseStamina": 210,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "088",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Lick",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Gunk Shot",
+	  "Sludge Wave"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Gunk Shot"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Sludge Wave"
+	]
+  },
+  {
+	"id": 90,
+	"num": "090",
+	"name": "Shellder",
+	"weight": 4.00,
+	"height": 0.30,
+	"spawnPercent": 0.52,
+	"spawnsAvg": 52,
+	"spawnTime": "07:39",
+	"multipliers": [2.65],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 822.91,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 120,
+	"baseDefense": 112,
+	"baseStamina": 60,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "091",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 470,
+	"eggPercent": 1.6,
+	"quickMoves": [
+	  "Tackle",
+	  "Ice Shard"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Icy Wind",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Water Pulse"
+	],
+	"bestDefenceMoveset": [
+	  "Ice Shard",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 91,
+	"num": "091",
+	"name": "Cloyster",
+	"weight": 132.50,
+	"height": 1.50,
+	"spawnPercent": 0.015,
+	"spawnsAvg": 1.5,
+	"spawnTime": "02:33",
+	"multipliers": [],
+	"type": [
+	  "Ice",
+	  "Water"
+	],
+	"maxCP": 2052.85,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 196,
+	"baseDefense": 196,
+	"baseStamina": 100,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "090",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Ice"
+	  ],
+	  "m08x": [
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Grass",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Bodies of Water, Ski Resorts, Glacier, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Frost Breath",
+	  "Ice Shard"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Hydro Pump",
+	  "Icy Wind"
+	],
+	"bestAttackMoveset": [
+	  "Frost Breath",
+	  "Blizzard"
+	],
+	"bestDefenceMoveset": [
+	  "Ice Shard",
+	  "Blizzard"
+	]
+  },
+  {
+	"id": 92,
+	"num": "092",
+	"name": "Gastly",
+	"weight": 0.10,
+	"height": 1.30,
+	"spawnPercent": 0.79,
+	"spawnsAvg": 79,
+	"spawnTime": "04:21",
+	"multipliers": [1.78],
+	"type": [
+	  "Ghost",
+	  "Poison"
+	],
+	"maxCP": 804.41,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 136,
+	"baseDefense": 82,
+	"baseStamina": 60,
+	"capturePercent": 32,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "093",
+	"evolNextCandy": 25,
+	"evolNextNext": "094",
+	"evolNextNextCandy": 100,
+	"buddyRange": 2,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Normal"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dark",
+		"Ghost",
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas",
+	  "Churches, Residential Areas ( Slightly Higher Spawn Rate During Night Time/After Noon/Early Morning )"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 459,
+	"eggPercent": 1.8,
+	"quickMoves": [
+	  "Lick",
+	  "Sucker Punch"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Sludge Bomb",
+	  "Ominous Wind"
+	],
+	"bestAttackMoveset": [
+	  "Lick",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Sucker Punch",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 93,
+	"num": "093",
+	"name": "Haunter",
+	"weight": 0.10,
+	"height": 1.60,
+	"spawnPercent": 0.052,
+	"spawnsAvg": 5.2,
+	"spawnTime": "00:10",
+	"multipliers": [
+	  1.56,
+	  1.8
+	],
+	"type": [
+	  "Ghost",
+	  "Poison"
+	],
+	"maxCP": 1380.21,
+	"CPperlvl": 20,
+	"tierRank": "B",
+	"baseAttack": 172,
+	"baseDefense": 118,
+	"baseStamina": 90,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "092",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "094",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Normal"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dark",
+		"Ghost",
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas",
+	  "Churches, Residential Areas ( Slightly Higher Spawn Rate During Night Time/After Noon/Early Morning )"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Lick",
+	  "Shadow Claw"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Shadow Ball",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Shadow Claw",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Shadow Claw",
+	  "Shadow Ball"
+	]
+  },
+  {
+	"id": 94,
+	"num": "094",
+	"name": "Gengar",
+	"weight": 40.50,
+	"height": 1.50,
+	"spawnPercent": 0.0067,
+	"spawnsAvg": 0.67,
+	"spawnTime": "03:55",
+	"multipliers": [],
+	"type": [
+	  "Ghost",
+	  "Poison"
+	],
+	"maxCP": 2078.23,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 204,
+	"baseDefense": 156,
+	"baseStamina": 120,
+	"capturePercent": 8,
+	"fleePercent": 5,
+	"evolPrev": "093",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "092",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Normal"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dark",
+		"Ghost",
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas",
+	  "Churches, Residential Areas ( Slightly Higher Spawn Rate During Night Time/After Noon/Early Morning )"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Sucker Punch",
+	  "Shadow Claw"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Shadow Ball",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Shadow Claw",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Shadow Claw",
+	  "Shadow Ball"
+	]
+  },
+  {
+	"id": 95,
+	"num": "095",
+	"name": "Onix",
+	"weight": 210.00,
+	"height": 8.80,
+	"spawnPercent": 0.1,
+	"spawnsAvg": 10,
+	"spawnTime": "01:18",
+	"multipliers": [],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 857.20,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 90,
+	"baseDefense": 186,
+	"baseStamina": 70,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 489,
+	"eggPercent": 7.0,
+	"quickMoves": [
+	  "Tackle",
+	  "Rock Throw"
+	],
+	"chargeMoves": [
+	  "Iron Head",
+	  "Rock Slide",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Rock Throw",
+	  "Stone Edge"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Throw",
+	  "Rock Slide"
+	]
+  },
+  {
+	"id": 96,
+	"num": "096",
+	"name": "Drowzee",
+	"weight": 32.40,
+	"height": 1.00,
+	"spawnPercent": 3.21,
+	"spawnsAvg": 321,
+	"spawnTime": "01:51",
+	"multipliers": [
+	  2.08,
+	  2.09
+	],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 1075.14,
+	"CPperlvl": 15,
+	"tierRank": "F",
+	"baseAttack": 104,
+	"baseDefense": 140,
+	"baseStamina": 120,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "097",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 614,
+	"eggPercent": 1.9,
+	"quickMoves": [
+	  "Confusion",
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Psybeam",
+	  "Psychic",
+	  "Psyshock"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 97,
+	"num": "097",
+	"name": "Hypno",
+	"weight": 75.60,
+	"height": 1.60,
+	"spawnPercent": 0.1,
+	"spawnsAvg": 10,
+	"spawnTime": "02:17",
+	"multipliers": [],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 2184.16,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 162,
+	"baseDefense": 196,
+	"baseStamina": 170,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "096",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Psychic",
+	  "Psyshock",
+	  "Shadow Ball"
+	],
+	"bestAttackMoveset": [
+	  "Zen Headbutt",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 98,
+	"num": "098",
+	"name": "Krabby",
+	"weight": 6.50,
+	"height": 0.40,
+	"spawnPercent": 2.12,
+	"spawnsAvg": 212,
+	"spawnTime": "03:33",
+	"multipliers": [
+	  2.36,
+	  2.4
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 792.21,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 116,
+	"baseDefense": 110,
+	"baseStamina": 60,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "099",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 452,
+	"eggPercent": 3.0,
+	"quickMoves": [
+	  "Bubble",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Vice Grip",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Bubble",
+	  "Water Pulse"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 99,
+	"num": "099",
+	"name": "Kingler",
+	"weight": 60.00,
+	"height": 1.30,
+	"spawnPercent": 0.062,
+	"spawnsAvg": 6.2,
+	"spawnTime": "03:44",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1823.15,
+	"CPperlvl": 27,
+	"tierRank": "B",
+	"baseAttack": 178,
+	"baseDefense": 168,
+	"baseStamina": 110,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "098",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Metal Claw",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Vice Grip",
+	  "Water Pulse",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Metal Claw",
+	  "X-Scissor"
+	],
+	"bestDefenceMoveset": [
+	  "Metal Claw",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 100,
+	"num": "100",
+	"name": "Voltorb",
+	"weight": 10.40,
+	"height": 0.50,
+	"spawnPercent": 0.65,
+	"spawnsAvg": 65,
+	"spawnTime": "04:36",
+	"multipliers": [
+	  2.01,
+	  2.02
+	],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 839.73,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 102,
+	"baseDefense": 124,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "101",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 479,
+	"eggPercent": 2.0,
+	"quickMoves": [
+	  "Tackle",
+	  "Spark"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Signal Beam",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Spark",
+	  "Thunderbolt"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 101,
+	"num": "101",
+	"name": "Electrode",
+	"weight": 66.60,
+	"height": 1.20,
+	"spawnPercent": 0.02,
+	"spawnsAvg": 2,
+	"spawnTime": "04:10",
+	"multipliers": [],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 1646.14,
+	"CPperlvl": 24,
+	"tierRank": "B",
+	"baseAttack": 150,
+	"baseDefense": 174,
+	"baseStamina": 120,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "100",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Tackle",
+	  "Spark"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Hyper Beam",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Spark",
+	  "Thunderbolt"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 102,
+	"num": "102",
+	"name": "Exeggcute",
+	"weight": 2.50,
+	"height": 0.40,
+	"spawnPercent": 0.78,
+	"spawnsAvg": 78,
+	"spawnTime": "09:09",
+	"multipliers": [
+	  2.7,
+	  3.18
+	],
+	"type": [
+	  "Grass",
+	  "Psychic"
+	],
+	"maxCP": 1099.81,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 110,
+	"baseDefense": 132,
+	"baseStamina": 120,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "103",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Fighting",
+		"Grass",
+		"Ground",
+		"Psychic",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dark",
+		"Fire",
+		"Flying",
+		"Ghost",
+		"Ice",
+		"Poison"
+	  ],
+	  "m156x": [
+		"Bug"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 628,
+	"eggPercent": 1.7,
+	"quickMoves": [
+	  "Confusion"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Psychic",
+	  "Seed Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Confusion",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 103,
+	"num": "103",
+	"name": "Exeggutor",
+	"weight": 120.00,
+	"height": 2.00,
+	"spawnPercent": 0.014,
+	"spawnsAvg": 1.4,
+	"spawnTime": "12:34",
+	"multipliers": [],
+	"type": [
+	  "Grass",
+	  "Psychic"
+	],
+	"maxCP": 2955.18,
+	"CPperlvl": 40,
+	"tierRank": "S",
+	"baseAttack": 232,
+	"baseDefense": 164,
+	"baseStamina": 190,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "102",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Fighting",
+		"Grass",
+		"Ground",
+		"Psychic",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dark",
+		"Fire",
+		"Flying",
+		"Ghost",
+		"Ice",
+		"Poison"
+	  ],
+	  "m156x": [
+		"Bug"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve",
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Psychic",
+	  "Seed Bomb",
+	  "Solar Beam"
+	],
+	"bestAttackMoveset": [
+	  "Zen Headbutt",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 104,
+	"num": "104",
+	"name": "Cubone",
+	"weight": 6.50,
+	"height": 0.40,
+	"spawnPercent": 0.61,
+	"spawnsAvg": 61,
+	"spawnTime": "01:51",
+	"multipliers": [1.67],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 1006.61,
+	"CPperlvl": 15,
+	"tierRank": "F",
+	"baseAttack": 102,
+	"baseDefense": 150,
+	"baseStamina": 100,
+	"capturePercent": 32,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "105",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 575,
+	"eggPercent": 2.1,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Bone Club",
+	  "Bulldoze",
+	  "Dig"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Bone Club"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Dig"
+	]
+  },
+  {
+	"id": 105,
+	"num": "105",
+	"name": "Marowak",
+	"weight": 45.00,
+	"height": 1.00,
+	"spawnPercent": 0.02,
+	"spawnsAvg": 2,
+	"spawnTime": "03:59",
+	"multipliers": [],
+	"type": [
+	  "Ground"
+	],
+	"maxCP": 1656.96,
+	"CPperlvl": 24,
+	"tierRank": "B",
+	"baseAttack": 140,
+	"baseDefense": 202,
+	"baseStamina": 120,
+	"capturePercent": 12,
+	"fleePercent": 6,
+	"evolPrev": "104",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Poison",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Grass",
+		"Ice",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Bone Club",
+	  "Dig",
+	  "Earthquake"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Dig"
+	]
+  },
+  {
+	"id": 106,
+	"num": "106",
+	"name": "Hitmonlee",
+	"weight": 49.80,
+	"height": 1.50,
+	"spawnPercent": 0.02,
+	"spawnsAvg": 2,
+	"spawnTime": "03:59",
+	"multipliers": [],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 1492.94,
+	"CPperlvl": 22,
+	"tierRank": "B",
+	"baseAttack": 148,
+	"baseDefense": 172,
+	"baseStamina": 100,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 853,
+	"eggPercent": 3.3,
+	"quickMoves": [
+	  "Low Kick",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Low Sweep",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Rock Smash",
+	  "Brick Break"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Smash",
+	  "Low Sweep"
+	]
+  },
+  {
+	"id": 107,
+	"num": "107",
+	"name": "Hitmonchan",
+	"weight": 50.20,
+	"height": 1.40,
+	"spawnPercent": 0.022,
+	"spawnsAvg": 2.2,
+	"spawnTime": "05:58",
+	"multipliers": [],
+	"type": [
+	  "Fighting"
+	],
+	"maxCP": 1516.51,
+	"CPperlvl": 22,
+	"tierRank": "B",
+	"baseAttack": 138,
+	"baseDefense": 204,
+	"baseStamina": 100,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Dark",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Gyms, Sport Centers, Stadiums, Recreation Areas"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 866,
+	"eggPercent": 2.8,
+	"quickMoves": [
+	  "Bullet Punch",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Fire Punch",
+	  "Ice Punch",
+	  "Thunder Punch"
+	],
+	"bestAttackMoveset": [
+	  "Rock Smash",
+	  "Brick Break"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Smash",
+	  "Brick Break"
+	]
+  },
+  {
+	"id": 108,
+	"num": "108",
+	"name": "Lickitung",
+	"weight": 65.50,
+	"height": 1.20,
+	"spawnPercent": 0.011,
+	"spawnsAvg": 1.1,
+	"spawnTime": "02:46",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1626.82,
+	"CPperlvl": 24,
+	"tierRank": "B",
+	"baseAttack": 126,
+	"baseDefense": 160,
+	"baseStamina": 180,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 929,
+	"eggPercent": 0.7,
+	"quickMoves": [
+	  "Lick",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Hyper Beam",
+	  "Power Whip",
+	  "Stomp"
+	],
+	"bestAttackMoveset": [
+	  "Lick",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 109,
+	"num": "109",
+	"name": "Koffing",
+	"weight": 1.00,
+	"height": 0.60,
+	"spawnPercent": 0.2,
+	"spawnsAvg": 20,
+	"spawnTime": "08:16",
+	"multipliers": [1.11],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 1151.79,
+	"CPperlvl": 17,
+	"tierRank": "B",
+	"baseAttack": 136,
+	"baseDefense": 142,
+	"baseStamina": 80,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "110",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 658,
+	"eggPercent": 0.3,
+	"quickMoves": [
+	  "Tackle"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Sludge",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 110,
+	"num": "110",
+	"name": "Weezing",
+	"weight": 9.50,
+	"height": 1.20,
+	"spawnPercent": 0.016,
+	"spawnsAvg": 1.6,
+	"spawnTime": "12:17",
+	"multipliers": [],
+	"type": [
+	  "Poison"
+	],
+	"maxCP": 2250.15,
+	"CPperlvl": 33,
+	"tierRank": "A",
+	"baseAttack": 190,
+	"baseDefense": 198,
+	"baseStamina": 130,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "109",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fighting",
+		"Grass",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Psychic"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Wetlands, Marches, Lakes, Industrial Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Tackle"
+	],
+	"chargeMoves": [
+	  "Dark Pulse",
+	  "Shadow Ball",
+	  "Sludge Bomb"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Sludge Bomb"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Sludge Bomb"
+	]
+  },
+  {
+	"id": 111,
+	"num": "111",
+	"name": "Rhyhorn",
+	"weight": 115.00,
+	"height": 1.00,
+	"spawnPercent": 0.63,
+	"spawnsAvg": 63,
+	"spawnTime": "03:21",
+	"multipliers": [1.91],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 1182.08,
+	"CPperlvl": 17,
+	"tierRank": "B",
+	"baseAttack": 110,
+	"baseDefense": 116,
+	"baseStamina": 160,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "112",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 675,
+	"eggPercent": 2.3,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Bulldoze",
+	  "Horn Attack",
+	  "Stomp"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Stomp"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Bulldoze"
+	]
+  },
+  {
+	"id": 112,
+	"num": "112",
+	"name": "Rhydon",
+	"weight": 120.00,
+	"height": 1.90,
+	"spawnPercent": 0.022,
+	"spawnsAvg": 2.2,
+	"spawnTime": "05:50",
+	"multipliers": [],
+	"type": [
+	  "Ground",
+	  "Rock"
+	],
+	"maxCP": 2243.22,
+	"CPperlvl": 33,
+	"tierRank": "A",
+	"baseAttack": 166,
+	"baseDefense": 160,
+	"baseStamina": 210,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "111",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Poison"
+	  ],
+	  "m08x": [
+		"Fire",
+		"Flying",
+		"Normal",
+		"Rock"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting",
+		"Ground",
+		"Ice",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Grass",
+		"Water"
+	  ]
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve",
+	  "Parks, Farmland, Woodland, Quarry, Golf Course"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Slap",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Earthquake",
+	  "Megahorn",
+	  "Stone Edge"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 113,
+	"num": "113",
+	"name": "Chansey",
+	"weight": 34.60,
+	"height": 1.10,
+	"spawnPercent": 0.013,
+	"spawnsAvg": 1.3,
+	"spawnTime": "04:46",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 675.12,
+	"CPperlvl": 10,
+	"tierRank": "F",
+	"baseAttack": 40,
+	"baseDefense": 60,
+	"baseStamina": 500,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 385,
+	"eggPercent": 3.7,
+	"quickMoves": [
+	  "Pound",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Dazzling Gleam",
+	  "Hyper Beam",
+	  "Psychic"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 114,
+	"num": "114",
+	"name": "Tangela",
+	"weight": 35.00,
+	"height": 1.00,
+	"spawnPercent": 0.228,
+	"spawnsAvg": 22.8,
+	"spawnTime": "23:13",
+	"multipliers": [],
+	"type": [
+	  "Grass"
+	],
+	"maxCP": 1739.72,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 164,
+	"baseDefense": 152,
+	"baseStamina": 130,
+	"capturePercent": 32,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Grass",
+		"Ground",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Fire",
+		"Flying",
+		"Ice",
+		"Poison"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Hiking Trails, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 994,
+	"eggPercent": 1.0,
+	"quickMoves": [
+	  "Vine Whip"
+	],
+	"chargeMoves": [
+	  "Power Whip",
+	  "Sludge Bomb",
+	  "Solar Beam"
+	],
+	"bestAttackMoveset": [
+	  "Vine Whip",
+	  "Solar Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Vine Whip",
+	  "Solar Beam"
+	]
+  },
+  {
+	"id": 115,
+	"num": "115",
+	"name": "Kangaskhan",
+	"weight": 80.00,
+	"height": 2.20,
+	"spawnPercent": 0.0086,
+	"spawnsAvg": 0.86,
+	"spawnTime": "02:40",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 2043.40,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 142,
+	"baseDefense": 178,
+	"baseStamina": 210,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Low Kick",
+	  "Mud Slap"
+	],
+	"chargeMoves": [
+	  "Brick Break",
+	  "Earthquake",
+	  "Stomp"
+	],
+	"bestAttackMoveset": [
+	  "Mud Slap",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Slap",
+	  "Stomp"
+	]
+  },
+  {
+	"id": 116,
+	"num": "116",
+	"name": "Horsea",
+	"weight": 8.00,
+	"height": 0.40,
+	"spawnPercent": 1.13,
+	"spawnsAvg": 113,
+	"spawnTime": "02:53",
+	"multipliers": [2.23],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 794.67,
+	"CPperlvl": 12,
+	"tierRank": "F",
+	"baseAttack": 122,
+	"baseDefense": 100,
+	"baseStamina": 60,
+	"capturePercent": 40,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "117",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 454,
+	"eggPercent": 1.6,
+	"quickMoves": [
+	  "Bubble",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Dragon Pulse",
+	  "Flash Cannon"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Dragon Pulse"
+	],
+	"bestDefenceMoveset": [
+	  "Bubble",
+	  "Flash Cannon"
+	]
+  },
+  {
+	"id": 117,
+	"num": "117",
+	"name": "Seadra",
+	"weight": 25.00,
+	"height": 1.20,
+	"spawnPercent": 0.034,
+	"spawnsAvg": 3.4,
+	"spawnTime": "03:18",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 1713.22,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 176,
+	"baseDefense": 150,
+	"baseStamina": 110,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "116",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Dragon Breath",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Dragon Pulse",
+	  "Hydro Pump"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	]
+  },
+  {
+	"id": 118,
+	"num": "118",
+	"name": "Goldeen",
+	"weight": 15.00,
+	"height": 0.60,
+	"spawnPercent": 2.18,
+	"spawnsAvg": 218,
+	"spawnTime": "03:14",
+	"multipliers": [
+	  2.15,
+	  2.2
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 965.14,
+	"CPperlvl": 14,
+	"tierRank": "F",
+	"baseAttack": 112,
+	"baseDefense": 126,
+	"baseStamina": 90,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "119",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 551,
+	"eggPercent": 2.6,
+	"quickMoves": [
+	  "Mud Shot",
+	  "Peck"
+	],
+	"chargeMoves": [
+	  "Aqua Tail",
+	  "Horn Attack",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Mud Shot",
+	  "Aqua Tail"
+	],
+	"bestDefenceMoveset": [
+	  "Peck",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 119,
+	"num": "119",
+	"name": "Seaking",
+	"weight": 39.00,
+	"height": 1.30,
+	"spawnPercent": 0.08,
+	"spawnsAvg": 8,
+	"spawnTime": "05:21",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 2043.92,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 172,
+	"baseDefense": 160,
+	"baseStamina": 160,
+	"capturePercent": 16,
+	"fleePercent": 7,
+	"evolPrev": "118",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Peck",
+	  "Poison Jab"
+	],
+	"chargeMoves": [
+	  "Icy Wind",
+	  "Megahorn",
+	  "Drill Run"
+	],
+	"bestAttackMoveset": [
+	  "Poison Jab",
+	  "Megahorn"
+	],
+	"bestDefenceMoveset": [
+	  "Poison Jab",
+	  "Drill Run"
+	]
+  },
+  {
+	"id": 120,
+	"num": "120",
+	"name": "Staryu",
+	"weight": 80.00,
+	"height": 1.10,
+	"spawnPercent": 1.95,
+	"spawnsAvg": 195,
+	"spawnTime": "22:59",
+	"multipliers": [
+	  2.38,
+	  2.41
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 937.89,
+	"CPperlvl": 14,
+	"tierRank": "F",
+	"baseAttack": 130,
+	"baseDefense": 128,
+	"baseStamina": 60,
+	"capturePercent": 40,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "121",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 535,
+	"eggPercent": 3.0,
+	"quickMoves": [
+	  "Tackle",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Bubble Beam",
+	  "Power Gem",
+	  "Swift"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Power Gem"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Bubble Beam"
+	]
+  },
+  {
+	"id": 121,
+	"num": "121",
+	"name": "Starmie",
+	"weight": 80.00,
+	"height": 1.10,
+	"spawnPercent": 0.034,
+	"spawnsAvg": 3.4,
+	"spawnTime": "06:57",
+	"multipliers": [],
+	"type": [
+	  "Psychic",
+	  "Water"
+	],
+	"maxCP": 2182.14,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 194,
+	"baseDefense": 192,
+	"baseStamina": 120,
+	"capturePercent": 16,
+	"fleePercent": 6,
+	"evolPrev": "120",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Fire",
+		"Ice",
+		"Psychic",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Electric",
+		"Ghost",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Residential (Night Time), Hospitals, Grassy Areas"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Tackle",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Hydro Pump",
+	  "Power Gem",
+	  "Psychic"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle"
+	]
+  },
+  {
+	"id": 122,
+	"num": "122",
+	"name": "Mr. Mime",
+	"weight": 54.50,
+	"height": 1.30,
+	"spawnPercent": 0.0031,
+	"spawnsAvg": 0.31,
+	"spawnTime": "01:51",
+	"multipliers": [],
+	"type": [
+	  "Fairy",
+	  "Psychic"
+	],
+	"maxCP": 1494.42,
+	"CPperlvl": 22,
+	"tierRank": "B",
+	"baseAttack": 154,
+	"baseDefense": 196,
+	"baseStamina": 80,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting"
+	  ],
+	  "m08x": [
+		"Dragon",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ghost",
+		"Poison",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas",
+	  "Churches, Landmarks, Places of Interest, Cemeteries"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Psybeam",
+	  "Psychic",
+	  "Shadow Ball"
+	],
+	"bestAttackMoveset": [
+	  "Zen Headbutt",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 123,
+	"num": "123",
+	"name": "Scyther",
+	"weight": 56.00,
+	"height": 1.50,
+	"spawnPercent": 0.14,
+	"spawnsAvg": 14,
+	"spawnTime": "05:43",
+	"multipliers": [],
+	"type": [
+	  "Bug",
+	  "Flying"
+	],
+	"maxCP": 2073.96,
+	"CPperlvl": 30,
+	"tierRank": "A",
+	"baseAttack": 176,
+	"baseDefense": 180,
+	"baseStamina": 140,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Fighting",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fire",
+		"Flying",
+		"Ice"
+	  ],
+	  "m156x": [
+		"Rock"
+	  ]
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1185,
+	"eggPercent": 6.4,
+	"quickMoves": [
+	  "Fury Cutter",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Bug Buzz",
+	  "Night Slash",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Fury Cutter",
+	  "Bug Buzz"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Bug Buzz"
+	]
+  },
+  {
+	"id": 124,
+	"num": "124",
+	"name": "Jynx",
+	"weight": 40.60,
+	"height": 1.40,
+	"spawnPercent": 0.35,
+	"spawnsAvg": 35,
+	"spawnTime": "05:41",
+	"multipliers": [],
+	"type": [
+	  "Ice",
+	  "Psychic"
+	],
+	"maxCP": 1716.73,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 172,
+	"baseDefense": 134,
+	"baseStamina": 130,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ice",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Fire",
+		"Ghost",
+		"Rock",
+		"Steel"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential (Night Time), Hospitals, Grassy Areas",
+	  "Bodies of Water, Ski Resorts, Glacier, Grassy Areas"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 980,
+	"eggPercent": 7.2,
+	"quickMoves": [
+	  "Frost Breath",
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Draining Kiss",
+	  "Ice Punch",
+	  "Psyshock"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Psyshock"
+	],
+	"bestDefenceMoveset": [
+	  "Frost Breath",
+	  "Ice Punch"
+	]
+  },
+  {
+	"id": 125,
+	"num": "125",
+	"name": "Electabuzz",
+	"weight": 30.00,
+	"height": 1.10,
+	"spawnPercent": 0.074,
+	"spawnsAvg": 7.4,
+	"spawnTime": "04:28",
+	"multipliers": [],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 2119.17,
+	"CPperlvl": 31,
+	"tierRank": "A",
+	"baseAttack": 198,
+	"baseDefense": 160,
+	"baseStamina": 130,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1210,
+	"eggPercent": 7.4,
+	"quickMoves": [
+	  "Low Kick",
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Thunder",
+	  "Thunder Punch",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Thunder Shock",
+	  "Thunder"
+	],
+	"bestDefenceMoveset": [
+	  "Thunder Shock",
+	  "Thunder Punch"
+	]
+  },
+  {
+	"id": 126,
+	"num": "126",
+	"name": "Magmar",
+	"weight": 44.50,
+	"height": 1.30,
+	"spawnPercent": 0.1,
+	"spawnsAvg": 10,
+	"spawnTime": "20:36",
+	"multipliers": [],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 2265.30,
+	"CPperlvl": 33,
+	"tierRank": "A",
+	"baseAttack": 214,
+	"baseDefense": 158,
+	"baseStamina": 130,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1294,
+	"eggPercent": 8.8,
+	"quickMoves": [
+	  "Ember",
+	  "Karate Chop"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Fire Punch",
+	  "Flamethrower"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 127,
+	"num": "127",
+	"name": "Pinsir",
+	"weight": 55.00,
+	"height": 1.50,
+	"spawnPercent": 0.99,
+	"spawnsAvg": 99,
+	"spawnTime": "03:25",
+	"multipliers": [],
+	"type": [
+	  "Bug"
+	],
+	"maxCP": 2121.87,
+	"CPperlvl": 31,
+	"tierRank": "A",
+	"baseAttack": 184,
+	"baseDefense": 186,
+	"baseStamina": 130,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fire",
+		"Flying",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Parks, Farmland, Forest, Gardens, Golf Courses, Woodland, Grassy Areas, Meadow, Nature Reserve"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1212,
+	"eggPercent": 7.6,
+	"quickMoves": [
+	  "Fury Cutter",
+	  "Rock Smash"
+	],
+	"chargeMoves": [
+	  "Submission",
+	  "Vice Grip",
+	  "X-Scissor"
+	],
+	"bestAttackMoveset": [
+	  "Fury Cutter",
+	  "X-Scissor"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Smash",
+	  "X-Scissor"
+	]
+  },
+  {
+	"id": 128,
+	"num": "128",
+	"name": "Tauros",
+	"weight": 88.40,
+	"height": 1.40,
+	"spawnPercent": 0.12,
+	"spawnsAvg": 12,
+	"spawnTime": "00:37",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1844.76,
+	"CPperlvl": 27,
+	"tierRank": "B",
+	"baseAttack": 148,
+	"baseDefense": 184,
+	"baseStamina": 150,
+	"capturePercent": 24,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Tackle",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Earthquake",
+	  "Horn Attack",
+	  "Iron Head"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Earthquake"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Earthquake"
+	]
+  },
+  {
+	"id": 129,
+	"num": "129",
+	"name": "Magikarp",
+	"weight": 10.00,
+	"height": 0.90,
+	"spawnPercent": 4.78,
+	"spawnsAvg": 478,
+	"spawnTime": "14:26",
+	"multipliers": [
+	  10.1,
+	  11.8
+	],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 262.70,
+	"CPperlvl": 4,
+	"tierRank": "F",
+	"baseAttack": 42,
+	"baseDefense": 84,
+	"baseStamina": 40,
+	"capturePercent": 56,
+	"fleePercent": 15,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "130",
+	"evolNextCandy": 400,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": 2,
+	"eggPerfectCP": 150,
+	"eggPercent": 8.6,
+	"quickMoves": [
+	  "Splash"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Splash",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Splash",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 130,
+	"num": "130",
+	"name": "Gyarados",
+	"weight": 235.00,
+	"height": 6.50,
+	"spawnPercent": 0.0032,
+	"spawnsAvg": 0.32,
+	"spawnTime": "02:15",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Water"
+	],
+	"maxCP": 2688.89,
+	"CPperlvl": 39,
+	"tierRank": "S",
+	"baseAttack": 192,
+	"baseDefense": 196,
+	"baseStamina": 190,
+	"capturePercent": 8,
+	"fleePercent": 7,
+	"evolPrev": "129",
+	"evolPrevCandy": 400,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 1,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fighting",
+		"Fire",
+		"Ground",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Rock"
+	  ],
+	  "m156x": [
+		"Electric"
+	  ]
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Bite"
+	],
+	"chargeMoves": [
+	  "Dragon Pulse",
+	  "Hydro Pump",
+	  "Twister"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Bite",
+	  "Dragon Pulse"
+	]
+  },
+  {
+	"id": 131,
+	"num": "131",
+	"name": "Lapras",
+	"weight": 220.00,
+	"height": 2.50,
+	"spawnPercent": 0.006,
+	"spawnsAvg": 0.6,
+	"spawnTime": "08:59",
+	"multipliers": [],
+	"type": [
+	  "Ice",
+	  "Water"
+	],
+	"maxCP": 2980.73,
+	"CPperlvl": 43,
+	"tierRank": "S",
+	"baseAttack": 186,
+	"baseDefense": 190,
+	"baseStamina": 260,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Ice"
+	  ],
+	  "m08x": [
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Grass",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Bodies of Water, Ski Resorts, Glacier, Grassy Areas"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1703,
+	"eggPercent": 4.3,
+	"quickMoves": [
+	  "Frost Breath",
+	  "Ice Shard"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Dragon Pulse",
+	  "Ice Beam"
+	],
+	"bestAttackMoveset": [
+	  "Frost Breath",
+	  "Blizzard"
+	],
+	"bestDefenceMoveset": [
+	  "Ice Shard",
+	  "Ice Beam"
+	]
+  },
+  {
+	"id": 132,
+	"num": "132",
+	"name": "Ditto",
+	"weight": 4.00,
+	"height": 0.30,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 919.62,
+	"CPperlvl": 13,
+	"tierRank": "F",
+	"baseAttack": 110,
+	"baseDefense": 110,
+	"baseStamina": 96,
+	"capturePercent": 16,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Struggle"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Struggle"
+	],
+	"bestDefenceMoveset": [
+	  "Pound",
+	  "Struggle"
+	]
+  },
+  {
+	"id": 133,
+	"num": "133",
+	"name": "Eevee",
+	"weight": 6.50,
+	"height": 0.30,
+	"spawnPercent": 2.75,
+	"spawnsAvg": 275,
+	"spawnTime": "05:32",
+	"multipliers": [
+	  2.02,
+	  2.64
+	],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1077.20,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 114,
+	"baseDefense": 128,
+	"baseStamina": 110,
+	"capturePercent": 32,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Shoulder",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 615,
+	"eggPercent": 17.7,
+	"quickMoves": [
+	  "Tackle",
+	  "Quick Attack"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Dig",
+	  "Swift"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Body Slam"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Dig"
+	]
+  },
+  {
+	"id": 134,
+	"num": "134",
+	"name": "Vaporeon",
+	"weight": 29.00,
+	"height": 1.00,
+	"spawnPercent": 0.014,
+	"spawnsAvg": 1.4,
+	"spawnTime": "10:54",
+	"multipliers": [],
+	"type": [
+	  "Water"
+	],
+	"maxCP": 2816.25,
+	"CPperlvl": 40,
+	"tierRank": "S",
+	"baseAttack": 186,
+	"baseDefense": 168,
+	"baseStamina": 260,
+	"capturePercent": 12,
+	"fleePercent": 6,
+	"evolPrev": "133",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fire",
+		"Ice",
+		"Steel",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Grass"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Aqua Tail",
+	  "Hydro Pump",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Water Gun",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 135,
+	"num": "135",
+	"name": "Jolteon",
+	"weight": 24.50,
+	"height": 0.80,
+	"spawnPercent": 0.012,
+	"spawnsAvg": 1.2,
+	"spawnTime": "02:30",
+	"multipliers": [],
+	"type": [
+	  "Electric"
+	],
+	"maxCP": 2140.27,
+	"CPperlvl": 31,
+	"tierRank": "A",
+	"baseAttack": 192,
+	"baseDefense": 174,
+	"baseStamina": 130,
+	"capturePercent": 12,
+	"fleePercent": 6,
+	"evolPrev": "133",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Flying",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Universty, College Campus, Industrial Parks, Residential, School, Railway, Commercial (Shopping Districts)"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Thunder",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Thunder Shock",
+	  "Thunder"
+	],
+	"bestDefenceMoveset": [
+	  "Thunder Shock",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 136,
+	"num": "136",
+	"name": "Flareon",
+	"weight": 25.00,
+	"height": 0.90,
+	"spawnPercent": 0.017,
+	"spawnsAvg": 1.7,
+	"spawnTime": "07:02",
+	"multipliers": [],
+	"type": [
+	  "Fire"
+	],
+	"maxCP": 2643.43,
+	"CPperlvl": 39,
+	"tierRank": "S",
+	"baseAttack": 238,
+	"baseDefense": 178,
+	"baseStamina": 130,
+	"capturePercent": 12,
+	"fleePercent": 6,
+	"evolPrev": "133",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fairy",
+		"Fire",
+		"Grass",
+		"Ice",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ground",
+		"Rock",
+		"Water"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential, Cities, Neighborhoods, Dry/Arid Climate, Warmer Climate, Beach, Parks"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Flamethrower",
+	  "Heat Wave"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 137,
+	"num": "137",
+	"name": "Porygon",
+	"weight": 36.50,
+	"height": 0.80,
+	"spawnPercent": 0.012,
+	"spawnsAvg": 1.2,
+	"spawnTime": "02:49",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 1691.56,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 156,
+	"baseDefense": 158,
+	"baseStamina": 130,
+	"capturePercent": 32,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 2,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 5,
+	"eggPerfectCP": 966,
+	"eggPercent": 1.0,
+	"quickMoves": [
+	  "Tackle",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Psybeam",
+	  "Signal Beam"
+	],
+	"bestAttackMoveset": [
+	  "Tackle",
+	  "Signal Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Tackle",
+	  "Signal Beam"
+	]
+  },
+  {
+	"id": 138,
+	"num": "138",
+	"name": "Omanyte",
+	"weight": 7.50,
+	"height": 0.40,
+	"spawnPercent": 0.14,
+	"spawnsAvg": 14,
+	"spawnTime": "10:23",
+	"multipliers": [2.12],
+	"type": [
+	  "Rock",
+	  "Water"
+	],
+	"maxCP": 1119.77,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 132,
+	"baseDefense": 160,
+	"baseStamina": 70,
+	"capturePercent": 32,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "139",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Fire"
+	  ],
+	  "m08x": [
+		"Flying",
+		"Ice",
+		"Normal",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Ground"
+	  ],
+	  "m156x": [
+		"Grass"
+	  ]
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 639,
+	"eggPercent": 3.2,
+	"quickMoves": [
+	  "Mud Shot",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Rock Tomb",
+	  "Brine"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Brine"
+	],
+	"bestDefenceMoveset": [
+	  "Water Gun",
+	  "Ancient Power"
+	]
+  },
+  {
+	"id": 139,
+	"num": "139",
+	"name": "Omastar",
+	"weight": 35.00,
+	"height": 1.00,
+	"spawnPercent": 0.0061,
+	"spawnsAvg": 0.61,
+	"spawnTime": "05:04",
+	"multipliers": [],
+	"type": [
+	  "Rock",
+	  "Water"
+	],
+	"maxCP": 2233.65,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 180,
+	"baseDefense": 202,
+	"baseStamina": 140,
+	"capturePercent": 12,
+	"fleePercent": 5,
+	"evolPrev": "138",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Fire"
+	  ],
+	  "m08x": [
+		"Flying",
+		"Ice",
+		"Normal",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Ground"
+	  ],
+	  "m156x": [
+		"Grass"
+	  ]
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Mud Shot",
+	  "Water Gun"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Hydro Pump",
+	  "Rock Slide"
+	],
+	"bestAttackMoveset": [
+	  "Water Gun",
+	  "Hydro Pump"
+	],
+	"bestDefenceMoveset": [
+	  "Rock Slide"
+	]
+  },
+  {
+	"id": 140,
+	"num": "140",
+	"name": "Kabuto",
+	"weight": 11.50,
+	"height": 0.50,
+	"spawnPercent": 0.1,
+	"spawnsAvg": 10,
+	"spawnTime": "00:05",
+	"multipliers": [
+	  1.97,
+	  2.37
+	],
+	"type": [
+	  "Rock",
+	  "Water"
+	],
+	"maxCP": 1104.72,
+	"CPperlvl": 16,
+	"tierRank": "B",
+	"baseAttack": 148,
+	"baseDefense": 142,
+	"baseStamina": 60,
+	"capturePercent": 32,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "141",
+	"evolNextCandy": 50,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [
+		"Fire"
+	  ],
+	  "m08x": [
+		"Flying",
+		"Ice",
+		"Normal",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Ground"
+	  ],
+	  "m156x": [
+		"Grass"
+	  ]
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 631,
+	"eggPercent": 3.3,
+	"quickMoves": [
+	  "Mud Shot",
+	  "Scratch"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Aqua Jet",
+	  "Rock Tomb"
+	],
+	"bestAttackMoveset": [
+	  "Scratch"
+	],
+	"bestDefenceMoveset": [
+	  "Scratch",
+	  "Ancient Power"
+	]
+  },
+  {
+	"id": 141,
+	"num": "141",
+	"name": "Kabutops",
+	"weight": 40.50,
+	"height": 1.30,
+	"spawnPercent": 0.0032,
+	"spawnsAvg": 0.32,
+	"spawnTime": "23:40",
+	"multipliers": [],
+	"type": [
+	  "Rock",
+	  "Water"
+	],
+	"maxCP": 2130.01,
+	"CPperlvl": 31,
+	"tierRank": "A",
+	"baseAttack": 190,
+	"baseDefense": 190,
+	"baseStamina": 120,
+	"capturePercent": 12,
+	"fleePercent": 5,
+	"evolPrev": "140",
+	"evolPrevCandy": 50,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Fire"
+	  ],
+	  "m08x": [
+		"Flying",
+		"Ice",
+		"Normal",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fighting",
+		"Ground"
+	  ],
+	  "m156x": [
+		"Grass"
+	  ]
+	},
+	"spawnLoc": [
+	  "Canal, Dock, Harbors, Lake, Ocean, Beach, River, Riverbank, Stream, Wetland, Ports, Reservoir, Basin",
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Fury Cutter",
+	  "Mud Shot"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Stone Edge",
+	  "Water Pulse"
+	],
+	"bestAttackMoveset": [
+	  "Mud Shot",
+	  "Stone Edge"
+	],
+	"bestDefenceMoveset": [
+	  "Mud Shot",
+	  "Water Pulse"
+	]
+  },
+  {
+	"id": 142,
+	"num": "142",
+	"name": "Aerodactyl",
+	"weight": 59.00,
+	"height": 1.80,
+	"spawnPercent": 0.018,
+	"spawnsAvg": 1.8,
+	"spawnTime": "23:40",
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Rock"
+	],
+	"maxCP": 2165.49,
+	"CPperlvl": 32,
+	"tierRank": "A",
+	"baseAttack": 182,
+	"baseDefense": 162,
+	"baseStamina": 160,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fire",
+		"Flying",
+		"Ground",
+		"Normal",
+		"Poison"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Quarries, Farmland, Parking Lots, Parking Buildings, Cities, Hiking Trails, Nature Reserve"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1237,
+	"eggPercent": 4.2,
+	"quickMoves": [
+	  "Bite",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Ancient Power",
+	  "Hyper Beam",
+	  "Iron Head"
+	],
+	"bestAttackMoveset": [
+	  "Bite",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 143,
+	"num": "143",
+	"name": "Snorlax",
+	"weight": 460.00,
+	"height": 2.10,
+	"spawnPercent": 0.016,
+	"spawnsAvg": 1.6,
+	"spawnTime": "23:40",
+	"multipliers": [],
+	"type": [
+	  "Normal"
+	],
+	"maxCP": 3112.85,
+	"CPperlvl": 45,
+	"tierRank": "S",
+	"baseAttack": 180,
+	"baseDefense": 180,
+	"baseStamina": 320,
+	"capturePercent": 16,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Ghost"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Fighting"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Residential Areas, Universities, College Campuses, Parking Lots"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 1778,
+	"eggPercent": 5.1,
+	"quickMoves": [
+	  "Lick",
+	  "Zen Headbutt"
+	],
+	"chargeMoves": [
+	  "Body Slam",
+	  "Earthquake",
+	  "Hyper Beam"
+	],
+	"bestAttackMoveset": [
+	  "Lick",
+	  "Hyper Beam"
+	],
+	"bestDefenceMoveset": [
+	  "Zen Headbutt",
+	  "Hyper Beam"
+	]
+  },
+  {
+	"id": 144,
+	"num": "144",
+	"name": "Articuno",
+	"weight": 55.40,
+	"height": 1.70,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Flying",
+	  "Ice"
+	],
+	"maxCP": 2978.16,
+	"CPperlvl": 43,
+	"tierRank": "S",
+	"baseAttack": 198,
+	"baseDefense": 242,
+	"baseStamina": 180,
+	"capturePercent": 0,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Grass",
+		"Ground"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Fire",
+		"Steel"
+	  ],
+	  "m156x": [
+		"Rock"
+	  ]
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Frost Breath"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Ice Beam",
+	  "Icy Wind"
+	],
+	"bestAttackMoveset": [
+	  "Frost Breath",
+	  "Blizzard"
+	],
+	"bestDefenceMoveset": [
+	  "Frost Breath",
+	  "Ice Beam"
+	]
+  },
+  {
+	"id": 145,
+	"num": "145",
+	"name": "Zapdos",
+	"weight": 52.60,
+	"height": 1.60,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Electric",
+	  "Flying"
+	],
+	"maxCP": 3114.38,
+	"CPperlvl": 45,
+	"tierRank": "S",
+	"baseAttack": 232,
+	"baseDefense": 194,
+	"baseStamina": 180,
+	"capturePercent": 0,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Flying",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Bug",
+		"Fighting",
+		"Flying",
+		"Grass",
+		"Ground",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Ice",
+		"Rock"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Thunder Shock"
+	],
+	"chargeMoves": [
+	  "Discharge",
+	  "Thunder",
+	  "Thunderbolt"
+	],
+	"bestAttackMoveset": [
+	  "Thunder Shock",
+	  "Thunder"
+	],
+	"bestDefenceMoveset": [
+	  "Thunder Shock",
+	  "Thunderbolt"
+	]
+  },
+  {
+	"id": 146,
+	"num": "146",
+	"name": "Moltres",
+	"weight": 60.00,
+	"height": 2.00,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Fire",
+	  "Flying"
+	],
+	"maxCP": 3240.47,
+	"CPperlvl": 47,
+	"tierRank": "S",
+	"baseAttack": 242,
+	"baseDefense": 194,
+	"baseStamina": 180,
+	"capturePercent": 0,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Bug",
+		"Grass"
+	  ],
+	  "m08x": [
+		"Fairy",
+		"Fighting",
+		"Fire",
+		"Ground",
+		"Steel"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Electric",
+		"Water"
+	  ],
+	  "m156x": [
+		"Rock"
+	  ]
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Ember"
+	],
+	"chargeMoves": [
+	  "Fire Blast",
+	  "Flamethrower",
+	  "Heat Wave"
+	],
+	"bestAttackMoveset": [
+	  "Ember",
+	  "Fire Blast"
+	],
+	"bestDefenceMoveset": [
+	  "Ember",
+	  "Flamethrower"
+	]
+  },
+  {
+	"id": 147,
+	"num": "147",
+	"name": "Dratini",
+	"weight": 3.30,
+	"height": 1.80,
+	"spawnPercent": 0.3,
+	"spawnsAvg": 30,
+	"spawnTime": "06:41",
+	"multipliers": [
+	  1.83,
+	  1.84
+	],
+	"type": [
+	  "Dragon"
+	],
+	"maxCP": 983.47,
+	"CPperlvl": 14,
+	"tierRank": "F",
+	"baseAttack": 128,
+	"baseDefense": 110,
+	"baseStamina": 82,
+	"capturePercent": 32,
+	"fleePercent": 9,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "148",
+	"evolNextCandy": 25,
+	"evolNextNext": "149",
+	"evolNextNextCandy": 100,
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Fire",
+		"Grass",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dragon",
+		"Fairy",
+		"Ice"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Golf Course, Landmarks, Places of Interest"
+	],
+	"eggRange": 10,
+	"eggPerfectCP": 561,
+	"eggPercent": 3.5,
+	"quickMoves": [
+	  "Bite",
+	  "Dragon Breath"
+	],
+	"chargeMoves": [
+	  "Aqua Tail",
+	  "Twister",
+	  "Wrap"
+	],
+	"bestAttackMoveset": [
+	  "Dragon Breath",
+	  "Aqua Tail"
+	],
+	"bestDefenceMoveset": [
+	  "Dragon Breath",
+	  "Twister"
+	]
+  },
+  {
+	"id": 148,
+	"num": "148",
+	"name": "Dragonair",
+	"weight": 16.50,
+	"height": 4.00,
+	"spawnPercent": 0.02,
+	"spawnsAvg": 2,
+	"spawnTime": "11:57",
+	"multipliers": [2.05],
+	"type": [
+	  "Dragon"
+	],
+	"maxCP": 1747.73,
+	"CPperlvl": 25,
+	"tierRank": "B",
+	"baseAttack": 170,
+	"baseDefense": 152,
+	"baseStamina": 122,
+	"capturePercent": 8,
+	"fleePercent": 6,
+	"evolPrev": "147",
+	"evolPrevCandy": 25,
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": "149",
+	"evolNextCandy": 100,
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Electric",
+		"Fire",
+		"Grass",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dragon",
+		"Fairy",
+		"Ice"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Golf Course, Landmarks, Places of Interest"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Dragon Breath",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Aqua Tail",
+	  "Dragon Pulse",
+	  "Wrap"
+	],
+	"bestAttackMoveset": [
+	  "Dragon Breath",
+	  "Dragon Pulse"
+	],
+	"bestDefenceMoveset": [
+	  "Dragon Breath",
+	  "Dragon Pulse"
+	]
+  },
+  {
+	"id": 149,
+	"num": "149",
+	"name": "Dragonite",
+	"weight": 210.00,
+	"height": 2.20,
+	"spawnPercent": 0.0011,
+	"spawnsAvg": 0.11,
+	"spawnTime": "23:38",
+	"multipliers": [],
+	"type": [
+	  "Dragon",
+	  "Flying"
+	],
+	"maxCP": 3500.06,
+	"CPperlvl": 50,
+	"tierRank": "S",
+	"baseAttack": 250,
+	"baseDefense": 212,
+	"baseStamina": 182,
+	"capturePercent": 4,
+	"fleePercent": 5,
+	"evolPrev": "148",
+	"evolPrevCandy": 100,
+	"evolPrevPrev": "147",
+	"evolPrevPrevCandy": 25,
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [
+		"Grass"
+	  ],
+	  "m08x": [
+		"Bug",
+		"Fighting",
+		"Fire",
+		"Ground",
+		"Water"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Dragon",
+		"Fairy"
+	  ],
+	  "m156x": [
+		"Ice"
+	  ]
+	},
+	"spawnLoc": [
+	  "Golf Course, Landmarks, Places of Interest"
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Dragon Breath",
+	  "Steel Wing"
+	],
+	"chargeMoves": [
+	  "Dragon Claw",
+	  "Dragon Pulse",
+	  "Hyper Beam"
+	],
+	"bestAttackMoveset": [
+	  "Dragon Breath",
+	  "Dragon Claw"
+	],
+	"bestDefenceMoveset": [
+	  "Steel Wing",
+	  "Dragon Pulse"
+	]
+  },
+  {
+	"id": 150,
+	"num": "150",
+	"name": "Mewtwo",
+	"weight": 122.00,
+	"height": 2.00,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 4144.75,
+	"CPperlvl": 60,
+	"tierRank": "S",
+	"baseAttack": 284,
+	"baseDefense": 202,
+	"baseStamina": 212,
+	"capturePercent": 0,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Big",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Confusion",
+	  "Psycho Cut"
+	],
+	"chargeMoves": [
+	  "Hyper Beam",
+	  "Psychic",
+	  "Shadow Ball"
+	],
+	"bestAttackMoveset": [
+	  "Psycho Cut",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Confusion",
+	  "Psychic"
+	]
+  },
+  {
+	"id": 151,
+	"num": "151",
+	"name": "Mew",
+	"weight": 4.00,
+	"height": 0.40,
+	"spawnPercent": 0,
+	"spawnsAvg": 0,
+	"spawnTime": null,
+	"multipliers": [],
+	"type": [
+	  "Psychic"
+	],
+	"maxCP": 3299.17,
+	"CPperlvl": 48,
+	"tierRank": "S",
+	"baseAttack": 220,
+	"baseDefense": 220,
+	"baseStamina": 200,
+	"capturePercent": 0,
+	"fleePercent": 10,
+	"evolPrev": [],
+	"evolPrevCandy": [],
+	"evolPrevPrev": [],
+	"evolPrevPrevCandy": [],
+	"evolNext": [],
+	"evolNextCandy": [],
+	"evolNextNext": [],
+	"evolNextNextCandy": [],
+	"buddyRange": 3,
+	"buddySize": "Medium",
+	"strongAgainst": {
+	  "m064x": [],
+	  "m08x": [
+		"Fighting",
+		"Psychic"
+	  ]
+	},
+	"weakAgainst": {
+	  "m125x": [
+		"Bug",
+		"Dark",
+		"Ghost"
+	  ],
+	  "m156x": []
+	},
+	"spawnLoc": [
+	  "Currently not able to be encountered or caught, and is rumored to be available during a special event."
+	],
+	"eggRange": null,
+	"eggPerfectCP": null,
+	"eggPercent": null,
+	"quickMoves": [
+	  "Pound"
+	],
+	"chargeMoves": [
+	  "Blizzard",
+	  "Dragon Pulse",
+	  "Earthquake",
+	  "Fire Blast",
+	  "Hyper Beam",
+	  "Psychic",
+	  "Solar Beam",
+	  "Thunder"
+	],
+	"bestAttackMoveset": [
+	  "Pound",
+	  "Psychic"
+	],
+	"bestDefenceMoveset": [
+	  "Pound",
+	  "Psychic"
+	]
+  }
+]
